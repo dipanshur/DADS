@@ -1,0 +1,61 @@
+class TicTacToe:
+    """  
+    0 1 2
+    3 4 5
+    6 7 8 """
+    def __init__(self):
+        self.reset()
+
+    def reset(self):
+        self.board = [None] * 9  
+        """
+        [None None None
+         None None None
+         None None None]
+        """
+        self.current_player = "X"
+
+    def make_move(self, pos): 
+        if not (0 <= pos <9): 
+            return False
+        if self.board[pos] is not None:
+            return False
+        self.board[pos] = self.current_player
+        self.current_player = "O" if self.current_player == "X" else "X"
+        return True
+        
+
+    def available_moves(self): 
+        return [i for i, v in enumerate(self.board) if v is None]
+    
+    def is_full(self):
+        return all(v is not None for v in self.board) 
+
+    def winner(self):
+        lines = [
+            (0,1,2),
+            (3,4,5),
+            (6,7,8),
+            (0,3,6),
+            (1,4,7),
+            (2,5,8),
+            (0,4,8),
+            (2,4,6),
+        ]
+
+        for a,b,c in lines: 
+            if (
+                self.board[a]
+                and self.board[a] == self.board[b]
+                and self.board[b] == self.board[c]
+            ):
+                return self.board[a]
+        return None
+    def is_draw(self):
+        return self.is_full() and self.winner() is None
+    
+if __name__ == "__main__":
+    g = TicTacToe()
+    print("Tic-Tac-Toe game logic module")
+
+    

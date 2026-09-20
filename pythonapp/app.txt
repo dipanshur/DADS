@@ -1,0 +1,22 @@
+from flask import Flask, jsonify
+
+app = Flask(__name__)
+
+@app.route('/')
+def home():
+    return jsonify({"message": "Welcome to Flask App!", "status": "running"})
+
+@app.route('/api/hello')
+def hello():
+    return jsonify({"greeting": "Hello from Flask!", "port": 5000})
+
+@app.route('/api/about')
+def about():
+    return jsonify({
+        "app": "Simple Flask Application",
+        "version": "1.0",
+        "port": 5000
+    })
+
+if __name__ == '__main__':
+    app.run(debug=True, port=5000, host='0.0.0.0')

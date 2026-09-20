@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "age": 28,
+      "active": true,
+      "tags": ["premium", "verified"]
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "age": 35,
+      "active": false,
+      "tags": ["standard"]
+    },
+    {
+      "id": 3,
+      "name": "Carol White",
+      "email": "carol.white@example.com",
+      "age": 42,
+      "active": true,
+      "tags": ["premium", "vip", "verified"]
+    }
+  ],
+  "products": [
+    {
+      "product_id": 101,
+      "name": "Wireless Headphones",
+      "price": 79.99,
+      "stock": 45,
+      "category": "Electronics"
+    },
+    {
+      "product_id": 102,
+      "name": "Coffee Maker",
+      "price": 49.99,
+      "stock": 12,
+      "category": "Appliances"
+    },
+    {
+      "product_id": 103,
+      "name": "Office Chair",
+      "price": 299.99,
+      "stock": 8,
+      "category": "Furniture"
+    }
+  ],
+  "metadata": {
+    "generated_date": "2026-07-04",
+    "version": "1.0",
+    "total_records": 6
+  }
+}

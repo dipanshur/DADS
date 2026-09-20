@@ -1,0 +1,36 @@
+Database --> organized collecton of data --> Electronically
+Tables --> store data in rows and columns
+Rows --> Individual entries
+columns --> Categories of Information
+Queries --> Requests to retrive specific data
+DBMS --> Database management system --> software to manage databases
+
+Types of databases
+1. Relational DB's (SQL) --> Related Tables
+RDBMS --> MySQL, PostgreSQL, MS SQL Server, Oracle, MariaDB, etc
+
+2. NoSQL DB's --> other than tables --> Key-Value
+NOSQL DBMS --> MongoDB, CosmosDB, Redis, Apache Cassandra
+
+--> Volume of data
+--> Complexity of data
+--> Interdependency
+
+ACID --> Atomicity(ALL or Nothing), Consistency(Valid State), Isolation(No Interfare), Durability(Permanently stored )
+Intrigity of you data
+INR 1000 A--> B
+INR 1000 C--> B
+
+
+Python --> Connect to databases + Execute SQL queries + Fetch results + Insert/Update/Delete data + Close Connection
+
+
+Python Progamming --> Database connector --> SQL Database
+
+Database Drivers --> Software that allows applications to interact with databases
+SQLLite --> sqlite3 (Python's built-in library)
+MySQL --> mysql-connector-python, PyMySQL
+PostgreSQL --> psycopg2, SQLAlchemy
+MS SQL Server --> pyodbc, pymssql
+Oracle --> cx_Oracle/oracledb
+

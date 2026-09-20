@@ -1,0 +1,11 @@
+OrderID,CustomerID,CustomerName,City,State,ProductCategory,ProductName,Quantity,UnitPrice,Discount_pct,ShippingCost,TotalAmount,OrderDate,PaymentMode,DeliveryStatus,Rating
+ORD10331,CUST0131,Pooja Verma,Kolkata,West Bengal,Beauty & Personal Care,Electric Trimmer,1,589.72,10,35.15,565.9,2025-12-26,Cash on Delivery,Delivered,4.0
+ORD10164,CUST0106,Ishaan Rao,Jaipur,Rajasthan,Home & Kitchen,Vacuum Flask,1,1956.64,0,0.0,1956.64,2025-02-12,Net Banking,Cancelled,
+ORD10207,CUST0078,Sneha Kulkarni,Bengaluru,Karnataka,Groceries,Assorted Dry Fruits Pack,1,827.06,5,80.55,866.26,2025-08-28,Credit Card,Delivered,2.0
+ORD10295,CUST0047,Aarav Patel,Indore,Madhya Pradesh,Groceries,Organic Honey 500g,1,419.43,20,84.82,420.36,2025-03-19,Cash on Delivery,Returned,
+ORD10130,CUST0020,Myra Rao,Nagpur,Maharashtra,Fashion,Running Shoes,2,696.2,20,0.0,1113.92,2025-11-23,Wallet,Cancelled,
+ORD10187,CUST0079,Anika Mehta,Gurugram,Haryana,Electronics,USB-C Cable,2,955.93,15,0.0,1625.08,2025-02-08,Cash on Delivery,Delivered,4.0
+ORD10243,CUST0026,Anika Gupta,Jaipur,Rajasthan,Groceries,Multigrain Atta 5kg,2,1094.69,0,0.0,2189.38,2025-10-27,UPI,Returned,
+ORD10165,CUST0025,Vinod Gupta,Bhopal,Madhya Pradesh,Home & Kitchen,Ceramic Dinner Set,1,1444.04,0,0.0,1444.04,2024-11-16,Wallet,Delivered,4.0
+ORD10397,CUST0119,Vinod Mehta,Coimbatore,Tamil Nadu,Sports & Fitness,Badminton Racket,1,1770.49,0,0.0,1770.49,2025-07-11,Net Banking,Shipped,
+ORD10371,CUST0025,Vinod Gupta,Bhopal,Madhya Pradesh,Fashion,Denim Jacket,1,1095.81,15,0.0,931.44,2025-05-03,UPI,Delivered,4.0

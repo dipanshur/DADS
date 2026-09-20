@@ -1,0 +1,11 @@
+id,name,age,city,email,signup_date
+1,John Doe,45,New York,john.doe@example.com,15-01-2021
+2,Jane Smith,29,Los Angeles,jane.smith@example.com,23-11-2020
+3,Emily Johnson,33,Chicago,emily.johnson@example.com,30-07-2019
+4,Michael Brown,40,Houston,michael.brown@example.com,10-03-2022
+5,Patricia Taylor,50,Phoenix,patricia.taylor@example.com,05-12-2021
+6,Robert Miller,28,Philadelphia,robert.miller@example.com,17-06-2020
+7,Linda Williams,35,San Antonio,linda.williams@example.com,20-04-2019
+8,David Anderson,55,Dallas,david.anderson@example.com,03-01-2023
+9,Barbara Moore,31,San Diego,barbara.moore@example.com,14-09-2021
+10,James Davis,46,San Jose,james.davis@example.com,22-05-2020

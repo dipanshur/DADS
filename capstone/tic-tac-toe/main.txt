@@ -1,0 +1,35 @@
+from game import TicTacToe
+
+def print_board(board):
+    symbols = [c if c is not None else " " for c in board]
+    
+    for i in range(0,9,3):
+        print("|" + "|".join(symbols[i:i+3]) + "|")
+
+
+def cli():
+    g = TicTacToe()
+
+    while True: 
+
+        print_board(g.board)
+        if g.winner():
+            print(f"Winner: {g.winner()}")
+            break
+
+        if g.is_draw():
+            print("Draw")
+            break
+        try: 
+            val = input(f"Player {g.current_player} move(0-8): ")
+            pos = int(val)
+
+        except Exception: 
+            print("Invalid Input")
+            continue
+        if not g.make_move(pos):
+            print("Invalid Move")
+
+if __name__ == "__main__":
+    cli()
+

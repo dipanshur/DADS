@@ -1,0 +1,457 @@
+OrderID,CustomerID,CustomerName,City,State,ProductCategory,ProductName,Quantity,UnitPrice,Discount_pct,ShippingCost,TotalAmount,OrderDate,PaymentMode,DeliveryStatus,Rating
+ORD10331,CUST0131,Pooja Verma,Kolkata,West Bengal,Beauty & Personal Care,Electric Trimmer,15,589.72,10,35.15,565.9,26-12-2025,Cash on Delivery,Delivered,4
+ORD10164,CUST0106,Ishaan Rao,Jaipur,Rajasthan,Home & Kitchen,Vacuum Flask,1,1956.64,0,0,1956.64,12-02-2025,Net Banking,Cancelled,
+ORD10207,CUST0078,Sneha Kulkarni,Bengaluru,Karnataka,Groceries,Assorted Dry Fruits Pack,1,827.06,5,80.55,866.26,28-08-2025,Credit Card,Delivered,2
+ORD10295,CUST0047,Aarav Patel,Indore,Madhya Pradesh,Groceries,Organic Honey 500g,1,419.43,20,84.82,420.36,19-03-2025,Cash on Delivery,Returned,
+ORD10130,CUST0020,Myra Rao,Nagpur,Maharashtra,Fashion,Running Shoes,2,696.2,20,0,1113.92,23-11-2025,Wallet,Cancelled,
+ORD10187,CUST0079,Anika Mehta,Gurugram,Haryana,Electronics,USB-C Cable,2,955.93,15,0,1625.08,08-02-2025,Cash on Delivery,Delivered,4
+ORD10243,CUST0026,Anika Gupta,Jaipur,Rajasthan,Groceries,Multigrain Atta 5kg,2,1094.69,0,0,2189.38,27-10-2025,UPI,Returned,
+ORD10165,CUST0025,Vinod Gupta,Bhopal,Madhya Pradesh,Home & Kitchen,Ceramic Dinner Set,1,1444.04,0,0,1444.04,16-11-2024,Wallet,Delivered,4
+ORD10397,CUST0119,Vinod Mehta,Coimbatore,Tamil Nadu,Sports & Fitness,Badminton Racket,1,1770.49,0,0,1770.49,11-07-2025,Net Banking,Shipped,
+ORD10371,CUST0025,Vinod Gupta,Bhopal,Madhya Pradesh,Fashion,Denim Jacket,1,1095.81,15,0,931.44,03-05-2025,UPI,Delivered,4
+ORD10115,CUST0066,Rekha Joshi,Patna,Bihar,Books,Fiction Novel,1,165.8,15,68.09,209.02,13-11-2025,Credit Card,Returned,
+ORD10052,CUST0137,Kavya Joshi,Hyderabad,Telangana,Fashion,Leather Wallet,2,480.38,0,91.9,1052.66,16-02-2024,Credit Card,Shipped,
+ORD10342,CUST0084,Vihaan Pillai,Pune,Maharashtra,Sports & Fitness,Resistance Bands,1,3199.85,10,0,2879.86,22-06-2025,Net Banking,Delivered,5
+ORD10174,CUST0072,Ishaan Menon,Patna,Bihar,Beauty & Personal Care,Herbal Shampoo,1,703.04,30,36.84,528.97,15-03-2025,Cash on Delivery,Returned,
+ORD10203,CUST0168,Sai Rao,Indore,Madhya Pradesh,Electronics,Smartphone Stand,1,2470.43,25,0,1852.82,05-10-2025,Net Banking,Delivered,4
+ORD10272,CUST0043,Kiara Pillai,Pune,Maharashtra,Sports & Fitness,Resistance Bands,2,1726.34,5,0,3280.05,25-12-2024,Net Banking,Delivered,5
+ORD10406,CUST0083,Rajesh Pillai,Bengaluru,Karnataka,Fashion,Leather Wallet,1,2084.76,0,0,2084.76,26-05-2024,Wallet,Shipped,
+ORD10189,CUST0066,Rekha Joshi,Patna,Bihar,Home & Kitchen,Storage Organizer Box,1,1383.14,20,0,1106.51,02-05-2024,Credit Card,Delivered,4
+ORD10121,CUST0071,Deepak Mehta,Bhopal,Madhya Pradesh,Electronics,Webcam HD,1,4487.37,10,0,4038.63,03-12-2025,Wallet,Delivered,1
+ORD10083,CUST0139,Aditya Bose,Noida,Uttar Pradesh,Books,Children's Picture Book,1,588.38,5,46.34,605.3,25-02-2024,Debit Card,Shipped,
+ORD10175,CUST0160,Saanvi Malhotra,Ahmedabad,Gujarat,Beauty & Personal Care,Perfume 100ml,1,1457.79,20,0,1166.23,20-10-2025,Cash on Delivery,Delivered,5
+ORD10411,CUST0105,Anika Patel,Ahmedabad,Gujarat,Fashion,Leather Wallet,1,2160.65,5,0,2052.62,20-01-2025,Debit Card,Returned,
+ORD10208,CUST0130,Ishaan Verma,Chennai,Tamil Nadu,Electronics,Power Bank 10000mAh,4,2417.95,0,0,9671.8,17-04-2025,Net Banking,Delivered,1
+ORD10381,CUST0153,Priya Sharma,Indore,Madhya Pradesh,Groceries,Basmati Rice 5kg,3,583.97,5,0,1664.31,22-06-2025,Net Banking,Shipped,
+ORD10434,CUST0002,Anika Joshi,Mysuru,Karnataka,Books,Python Programming Guide,3,793.45,15,0,2023.3,07-10-2025,Debit Card,Delivered,5
+ORD10147,CUST0086,Kavya Bose,Lucknow,Uttar Pradesh,Fashion,Denim Jacket,1,1452.06,20,0,1161.65,01-08-2025,Debit Card,Delivered,4
+ORD10213,CUST0129,Rekha Nair,Surat,Gujarat,Fashion,Men's Cotton T-Shirt,1,1203.12,15,0,1022.65,06-04-2025,Credit Card,Returned,
+ORD10359,CUST0074,Kavya Mehta,Bengaluru,Karnataka,Home & Kitchen,Wall Clock,2,1620.93,0,0,3241.86,23-10-2025,,Returned,
+ORD10249,CUST0013,Sai Chopra,Bengaluru,Karnataka,Fashion,Sunglasses,2,1066.08,10,0,1918.94,16-10-2025,Cash on Delivery,Delivered,5
+ORD10264,CUST0140,Saanvi Kapoor,Kolkata,West Bengal,Books,Fiction Novel,1,788.63,20,51.34,682.24,07-02-2024,Wallet,Delivered,5
+ORD10061,CUST0146,Vivaan Reddy,Hyderabad,Telangana,Beauty & Personal Care,Face Moisturizer,2,388.1,25,95.78,677.93,16-09-2025,Wallet,Delivered,2
+ORD10239,CUST0042,Vinod Kapoor,Indore,Madhya Pradesh,Home & Kitchen,Vacuum Flask,1,1986.39,10,0,1787.75,09-06-2025,Debit Card,Returned,
+ORD10133,CUST0095,Ajay Bose,Indore,Madhya Pradesh,Sports & Fitness,Badminton Racket,1,299.19,5,85.74,369.97,19-11-2025,UPI,Shipped,
+ORD10233,CUST0073,Sanjay Joshi,Lucknow,Uttar Pradesh,Groceries,Multigrain Atta 5kg,1,604.71,20,86.22,569.99,04-04-2025,Debit Card,Shipped,
+ORD10053,CUST0075,Reyansh Malhotra,Kolkata,West Bengal,Sports & Fitness,Adjustable Dumbbell Set,2,233.95,0,75.45,543.35,15-10-2025,Net Banking,Delivered,3
+ORD10320,CUST0028,Myra Kulkarni,Mumbai,Maharashtra,Books,Python Programming Guide,2,707.82,10,0,1274.08,27-09-2024,Wallet,Delivered,4
+ORD10415,CUST0066,Rekha Joshi,Patna,Bihar,Fashion,Formal Shirt,1,1225.24,0,0,1225.24,24-10-2025,Credit Card,Delivered,5
+ORD10423,CUST0167,Manoj Bose,Delhi,Delhi,Home & Kitchen,Wall Clock,1,2393.21,15,0,2034.23,24-09-2024,UPI,Shipped,
+ORD10308,CUST0124,Ishaan Patel,Delhi,Delhi,Books,Python Programming Guide,1,796.23,30,96.82,654.18,14-12-2024,Cash on Delivery,Delivered,5
+ORD10066,CUST0180,Krishna Kapoor,Mysuru,Karnataka,Groceries,Green Tea Box,2,1287.06,0,0,2574.12,13-03-2024,Wallet,Delivered,5
+ORD10188,CUST0002,Anika Joshi,Mysuru,Karnataka,Fashion,Leather Wallet,1,700.73,15,75.56,671.18,04-08-2024,Debit Card,Returned,
+ORD10031,CUST0110,Aadhya Mukherjee,Hyderabad,Telangana,Sports & Fitness,Cricket Bat,2,3604.15,5,0,6847.88,11-03-2024,Cash on Delivery,Cancelled,
+ORD10402,CUST0173,Geeta Iyer,Jaipur,Rajasthan,Sports & Fitness,Yoga Mat,2,3311.92,20,0,5299.07,07-09-2024,Wallet,Delivered,4
+ORD10057,CUST0176,Anika Nair,Pune,Maharashtra,Electronics,Smartphone Stand,1,739.27,5,47.56,749.87,01-06-2024,Cash on Delivery,Delivered,4
+ORD10032,CUST0088,Ananya Chopra,Pune,Maharashtra,Electronics,Mechanical Keyboard,1,1370.3,5,0,1301.78,16-05-2025,Credit Card,Delivered,5
+ORD10274,CUST0015,Kiara Verma,Jaipur,Rajasthan,Electronics,Mechanical Keyboard,1,2279.38,15,0,1937.47,07-01-2025,Cash on Delivery,Returned,
+ORD10299,CUST0142,Vivaan Mehta,Ahmedabad,Gujarat,Home & Kitchen,Cotton Bedsheet Set,3,295.52,20,38.02,747.27,02-10-2025,UPI,Shipped,
+ORD10446,CUST0122,,Hyderabad,Telangana,Electronics,Wireless Mouse,1,869.51,5,36.07,862.1,20-12-2025,Debit Card,Delivered,5
+ORD10391,CUST0121,Deepak Patel,Mumbai,Maharashtra,Electronics,Power Bank 10000mAh,2,3674.18,25,0,5511.27,22-02-2025,Debit Card,Returned,
+ORD10081,CUST0023,Ananya Deshmukh,Kolkata,West Bengal,Home & Kitchen,Wall Clock,1,2011.45,15,0,1709.73,27-11-2024,Credit Card,Returned,
+ORD10332,CUST0122,Sai Malhotra,Hyderabad,Telangana,Groceries,Basmati Rice 5kg,1,193.29,5,38.29,221.92,12-01-2025,UPI,Cancelled,
+ORD10364,CUST0028,Myra Kulkarni,Mumbai,Maharashtra,Home & Kitchen,Wall Clock,1,1089.17,0,0,1089.17,10-04-2025,Wallet,Shipped,
+ORD10102,CUST0117,Krishna Reddy,Bhopal,Madhya Pradesh,Electronics,Smartphone Stand,3,2673.69,20,0,6416.86,23-02-2025,Wallet,Delivered,4
+ORD10306,CUST0063,Anita Kapoor,Bengaluru,Karnataka,Groceries,Multigrain Atta 5kg,4,924.46,0,0,3697.84,19-02-2025,UPI,Delivered,4
+ORD10003,CUST0141,Meera Joshi,Noida,Uttar Pradesh,Books,Python Programming Guide,2,665.46,0,0,1330.92,01-05-2025,Net Banking,Delivered,1
+ORD10373,CUST0069,Aditya Kulkarni,Nagpur,Maharashtra,Home & Kitchen,Wall Clock,2,1663.38,20,0,2661.41,19-08-2025,Wallet,Shipped,
+ORD10345,CUST0178,Diya Mukherjee,Jaipur,Rajasthan,Home & Kitchen,Study Table,1,1049.35,5,0,996.88,10-05-2025,Debit Card,Delivered,5
+ORD10361,CUST0010,,Surat,Gujarat,Fashion,Sunglasses,1,349.85,15,75.47,372.84,29-06-2024,Credit Card,Returned,
+ORD10268,CUST0128,Aditya Deshmukh,Patna,Bihar,Home & Kitchen,Curtain Set,1,2264.44,20,0,1811.55,30-09-2024,Credit Card,Cancelled,
+ORD10262,CUST0118,Rohan Patel,Chennai,Tamil Nadu,Electronics,Power Bank 10000mAh,3,458.55,10,0,1238.08,25-07-2024,Credit Card,Returned,
+ORD10279,CUST0020,Myra Rao,Nagpur,Maharashtra,Beauty & Personal Care,Herbal Shampoo,1,712.73,20,95.13,665.31,26-06-2025,UPI,Delivered,5
+ORD10419,CUST0123,Aditya Sharma,Coimbatore,Tamil Nadu,Fashion,Formal Shirt,2,1782.9,15,0,3030.93,06-11-2024,Credit Card,Delivered,5
+ORD10447,CUST0128,Aditya Deshmukh,Patna,Bihar,Groceries,Green Tea Box,1,710.31,30,85.98,583.2,22-10-2025,UPI,Shipped,
+ORD10314,CUST0041,Arjun Chopra,Ahmedabad,Gujarat,Groceries,Assorted Dry Fruits Pack,2,426.91,25,39.57,679.94,14-08-2025,Wallet,Delivered,4
+ORD10296,CUST0015,Kiara Verma,Jaipur,Rajasthan,Groceries,Basmati Rice 5kg,2,1119.7,20,0,1791.52,14-06-2025,Debit Card,Delivered,5
+ORD10218,CUST0162,Meera Chopra,Bhopal,Madhya Pradesh,Sports & Fitness,Cricket Bat,1,523.33,30,64.15,430.48,08-03-2024,UPI,Delivered,5
+ORD10412,CUST0138,Ananya Reddy,Ahmedabad,Gujarat,Books,Python Programming Guide,1,673.08,10,98.39,704.16,18-08-2024,UPI,Returned,
+ORD10426,CUST0057,Arjun Pillai,Mysuru,Karnataka,Sports & Fitness,Adjustable Dumbbell Set,2,2178.64,10,0,3921.55,17-01-2024,UPI,Shipped,
+ORD10027,CUST0007,Vivaan Pillai,Gurugram,Haryana,Home & Kitchen,Study Table,1,1553.26,15,0,1320.27,24-11-2025,Net Banking,Delivered,4
+ORD10173,CUST0028,Myra Kulkarni,Mumbai,Maharashtra,Home & Kitchen,Curtain Set,1,771.13,20,34.62,651.52,11-01-2025,Credit Card,Returned,
+ORD10116,CUST0120,Aadhya Patel,Indore,Madhya Pradesh,Home & Kitchen,Curtain Set,1,3189.97,0,0,3189.97,10-06-2024,Credit Card,Delivered,5
+ORD10180,CUST0056,Sai Iyer,Lucknow,Uttar Pradesh,Books,Children's Picture Book,1,483.91,10,32.63,468.15,09-04-2025,UPI,Delivered,4
+ORD10223,CUST0080,Sunita Kapoor,Mysuru,Karnataka,Beauty & Personal Care,Electric Trimmer,1,904.51,0,41.73,946.24,20-10-2025,UPI,Returned,
+ORD10236,CUST0136,Vivaan Gupta,Coimbatore,Tamil Nadu,Books,Python Programming Guide,1,447.9,0,95.39,543.29,23-07-2024,Cash on Delivery,Delivered,5
+ORD10413,CUST0037,Pooja Joshi,Mysuru,Karnataka,Groceries,Green Tea Box,1,223.93,15,69.49,259.83,29-02-2024,,Delivered,4
+ORD10015,CUST0172,Aditya Joshi,Lucknow,Uttar Pradesh,Sports & Fitness,Resistance Bands,1,370.86,5,56.21,408.53,18-06-2024,Net Banking,Delivered,4
+ORD10416,CUST0095,Ajay Bose,Indore,Madhya Pradesh,Electronics,Portable SSD 1TB,1,4060.68,0,0,4060.68,14-07-2024,Credit Card,Delivered,5
+ORD10112,CUST0175,Neha Bose,Ahmedabad,Gujarat,Groceries,Organic Honey 500g,2,946.49,0,0,1892.98,23-06-2024,Debit Card,Delivered,3
+ORD10004,CUST0064,Anika Joshi,Nagpur,Maharashtra,Groceries,Multigrain Atta 5kg,2,353.81,0,41.84,749.46,10-10-2024,Cash on Delivery,Delivered,4
+ORD10090,CUST0075,Reyansh Malhotra,Kolkata,West Bengal,Beauty & Personal Care,Perfume 100ml,2,184.79,10,94.82,427.44,06-10-2024,Net Banking,Returned,
+ORD10060,CUST0116,Reyansh Nair,Hyderabad,Telangana,Books,Fiction Novel,1,255.19,15,48.65,265.56,25-08-2025,Net Banking,Delivered,3
+ORD10245,CUST0036,Priya Menon,Ahmedabad,Gujarat,Groceries,Multigrain Atta 5kg,1,819.62,10,41.28,778.94,25-04-2025,Net Banking,Shipped,
+ORD10353,CUST0138,Ananya Reddy,Ahmedabad,Gujarat,Home & Kitchen,Curtain Set,1,3404.6,0,0,3404.6,13-12-2025,UPI,Delivered,5
+ORD10444,CUST0176,Anika Nair,Pune,Maharashtra,Groceries,Basmati Rice 5kg,1,1292.84,0,0,1292.84,31-10-2025,Wallet,Returned,
+ORD10247,CUST0039,Vihaan Reddy,Mysuru,Karnataka,Beauty & Personal Care,Perfume 100ml,1,212.4,0,80.66,293.06,15-09-2025,Cash on Delivery,Delivered,3
+ORD10142,CUST0105,Anika Patel,Ahmedabad,Gujarat,Home & Kitchen,Non-stick Pan,1,2415.19,10,0,2173.67,07-12-2025,UPI,Delivered,5
+ORD10352,CUST0066,Rekha Joshi,Patna,Bihar,Sports & Fitness,Resistance Bands,2,3653.32,0,0,7306.64,07-08-2024,Debit Card,Returned,
+ORD10110,CUST0012,Aadhya Kulkarni,Bengaluru,Karnataka,Home & Kitchen,Non-stick Pan,1,2711.99,10,0,2440.79,27-10-2024,UPI,Delivered,4
+ORD10386,CUST0115,,Chennai,Tamil Nadu,Groceries,Basmati Rice 5kg,1,384.05,5,44.91,409.76,09-04-2025,Debit Card,Shipped,
+ORD10080,CUST0127,Arjun Nair,Bhopal,Madhya Pradesh,Home & Kitchen,Ceramic Dinner Set,2,1548.54,0,0,3097.08,17-07-2025,Credit Card,Delivered,4
+ORD10169,CUST0144,Riya Deshmukh,Indore,Madhya Pradesh,Beauty & Personal Care,Lipstick Set,1,941.24,15,59.22,859.27,17-11-2025,Credit Card,Delivered,4
+ORD10029,CUST0027,Neha Patel,Bhopal,Madhya Pradesh,Sports & Fitness,Cricket Bat,2,2605.93,20,0,4169.49,01-12-2025,Cash on Delivery,Returned,
+ORD10042,CUST0062,Sneha Deshmukh,Jaipur,Rajasthan,Sports & Fitness,Resistance Bands,1,2601.76,10,0,2341.58,23-10-2025,Wallet,Delivered,5
+ORD10119,CUST0124,Ishaan Patel,Delhi,Delhi,Electronics,USB-C Cable,4,2060.89,0,0,8243.56,25-01-2025,Cash on Delivery,Delivered,5
+ORD10023,CUST0006,Myra Mukherjee,Chandigarh,Chandigarh,Beauty & Personal Care,Herbal Shampoo,1,1111.88,15,0,945.1,01-09-2024,Debit Card,Delivered,5
+ORD10363,CUST0075,Reyansh Malhotra,Kolkata,West Bengal,Electronics,Wireless Mouse,1,4379.88,0,0,4379.88,01-11-2024,Cash on Delivery,Shipped,
+ORD10033,CUST0093,Ajay Pillai,Mumbai,Maharashtra,Sports & Fitness,Resistance Bands,3,225.42,10,58.22,666.85,25-12-2025,Debit Card,Delivered,4
+ORD10075,CUST0006,Myra Mukherjee,Chandigarh,Chandigarh,Groceries,Multigrain Atta 5kg,1,1022.99,0,0,1022.99,02-10-2024,Cash on Delivery,Delivered,5
+ORD10278,CUST0155,Priya Iyer,Coimbatore,Tamil Nadu,Fashion,Woolen Sweater,2,849.2,25,0,1273.8,14-01-2025,UPI,Delivered,5
+ORD10058,CUST0022,Riya Kapoor,Kolkata,West Bengal,Fashion,Women's Kurti,5,1330.02,20,0,5320.08,25-07-2025,Net Banking,Shipped,
+ORD10383,CUST0141,Meera Joshi,Noida,Uttar Pradesh,Beauty & Personal Care,Herbal Shampoo,2,737.04,15,0,1252.97,09-08-2025,Cash on Delivery,Delivered,4
+ORD10063,CUST0041,,Ahmedabad,Gujarat,Fashion,Denim Jacket,4,2594.78,0,0,10379.12,19-07-2025,Credit Card,Delivered,4
+ORD10347,CUST0074,Kavya Mehta,Bengaluru,Karnataka,Sports & Fitness,Adjustable Dumbbell Set,1,1608.95,30,0,1126.26,07-12-2025,Wallet,Delivered,3
+ORD10146,CUST0055,Vihaan Joshi,Patna,Bihar,Sports & Fitness,Badminton Racket,1,717.21,0,53.54,770.75,03-09-2025,Credit Card,Delivered,5
+ORD10085,CUST0014,Suresh Deshmukh,Chandigarh,Chandigarh,Fashion,Leather Wallet,1,375.51,0,88.88,464.39,16-07-2025,Debit Card,Delivered,5
+ORD10051,CUST0059,Ananya Patel,Indore,Madhya Pradesh,Home & Kitchen,Cotton Bedsheet Set,3,3126.39,15,0,7972.29,05-11-2024,Credit Card,Cancelled,
+ORD10379,CUST0096,Anita Gupta,Mumbai,Maharashtra,Books,Cookbook,5,424.53,20,0,1698.12,16-07-2025,Net Banking,Returned,
+ORD10405,CUST0148,Aditya Reddy,Chandigarh,Chandigarh,Home & Kitchen,Study Table,2,1105.86,20,0,1769.38,04-09-2025,Wallet,Returned,
+ORD10166,CUST0096,Anita Gupta,Mumbai,Maharashtra,Fashion,Woolen Sweater,1,1149.62,0,0,1149.62,09-03-2024,Credit Card,Returned,
+ORD10160,CUST0163,,Chennai,Tamil Nadu,Beauty & Personal Care,Sunscreen SPF50,2,398.1,0,54.93,851.13,30-12-2025,UPI,Delivered,5
+ORD10439,CUST0138,Ananya Reddy,Ahmedabad,Gujarat,Home & Kitchen,Non-stick Pan,1,682.03,5,33.77,681.7,29-05-2025,Wallet,Cancelled,
+ORD10421,CUST0155,Priya Iyer,Coimbatore,Tamil Nadu,Sports & Fitness,Adjustable Dumbbell Set,1,2821.02,0,0,2821.02,10-02-2025,Debit Card,Shipped,
+ORD10244,CUST0038,Manoj Bose,Nagpur,Maharashtra,Fashion,Men's Cotton T-Shirt,1,625.44,20,90.17,590.52,20-10-2024,Net Banking,Cancelled,
+ORD10400,CUST0170,Anika Rao,Noida,Uttar Pradesh,Books,History Encyclopedia,4,485.84,15,0,1651.86,17-01-2024,Debit Card,Delivered,5
+ORD10418,CUST0019,Saanvi Iyer,Mumbai,Maharashtra,Fashion,Handbag,1,1164.76,10,0,1048.28,18-11-2025,Cash on Delivery,Delivered,1
+ORD10394,CUST0170,Anika Rao,Noida,Uttar Pradesh,Groceries,Cold Pressed Oil 1L,1,220.7,5,46.97,256.64,16-05-2024,Wallet,Returned,
+ORD10275,CUST0174,Kavya Menon,Gurugram,Haryana,Fashion,Men's Cotton T-Shirt,1,552.8,5,49.11,574.27,26-05-2024,Cash on Delivery,Cancelled,
+ORD10097,CUST0083,Rajesh Pillai,Bengaluru,Karnataka,Groceries,Organic Honey 500g,2,437.44,0,81.54,956.42,15-12-2025,Debit Card,Shipped,
+ORD10221,CUST0170,Anika Rao,Noida,Uttar Pradesh,Fashion,Formal Shirt,1,1547.18,10,0,1392.46,13-11-2024,Wallet,Cancelled,
+ORD10099,CUST0122,Sai Malhotra,Hyderabad,Telangana,Sports & Fitness,Resistance Bands,1,3149.37,5,0,2991.9,30-01-2025,Wallet,Returned,
+ORD10441,CUST0039,Vihaan Reddy,Mysuru,Karnataka,Fashion,Running Shoes,4,1438.37,5,0,5465.81,26-09-2025,Cash on Delivery,Delivered,5
+ORD10425,CUST0095,Ajay Bose,Indore,Madhya Pradesh,Home & Kitchen,Ceramic Dinner Set,5,3258.1,10,0,14661.45,16-02-2024,Cash on Delivery,Returned,
+ORD10222,CUST0170,Anika Rao,Noida,Uttar Pradesh,Books,Python Programming Guide,1,719.42,5,65.71,749.16,01-09-2025,Wallet,Delivered,4
+ORD10014,CUST0070,Manoj Joshi,Hyderabad,Telangana,Books,Children's Picture Book,3,577.32,25,0,1298.97,30-01-2024,Net Banking,Delivered,3
+ORD10410,CUST0098,Arjun Agarwal,Nagpur,Maharashtra,Groceries,Cold Pressed Oil 1L,1,568.09,10,63.77,575.05,22-11-2024,Wallet,Delivered,1
+ORD10437,CUST0169,Geeta Kulkarni,Nagpur,Maharashtra,Books,Self-Help Bestseller,1,788.61,25,63.09,654.55,07-01-2024,Cash on Delivery,Shipped,
+ORD10194,CUST0104,Kiara Mehta,Coimbatore,Tamil Nadu,Sports & Fitness,Badminton Racket,2,1471.64,0,0,2943.28,03-03-2025,UPI,Delivered,5
+ORD10091,CUST0124,,Delhi,Delhi,Books,Python Programming Guide,1,409.54,10,61.08,429.67,12-04-2025,Cash on Delivery,Delivered,5
+ORD10163,CUST0142,Vivaan Mehta,Ahmedabad,Gujarat,Sports & Fitness,Adjustable Dumbbell Set,3,2143.37,10,0,5787.1,16-03-2025,Net Banking,Delivered,4
+ORD10407,CUST0057,Arjun Pillai,Mysuru,Karnataka,Books,Fiction Novel,2,460.41,10,40.76,869.5,08-10-2024,Credit Card,Shipped,
+ORD10288,CUST0093,Ajay Pillai,Mumbai,Maharashtra,Beauty & Personal Care,Herbal Shampoo,3,1439.13,20,0,3453.91,04-05-2024,Debit Card,Returned,
+ORD10341,CUST0016,Sunita Reddy,Ahmedabad,Gujarat,Sports & Fitness,Adjustable Dumbbell Set,1,3907.29,5,0,3711.93,15-06-2025,Debit Card,Shipped,
+ORD10148,CUST0142,Vivaan Mehta,Ahmedabad,Gujarat,Fashion,Handbag,1,2404.05,5,0,2283.85,09-08-2024,Debit Card,Delivered,5
+ORD10082,CUST0104,Kiara Mehta,Coimbatore,Tamil Nadu,Groceries,Cold Pressed Oil 1L,2,434.92,25,80.65,733.03,02-01-2024,Wallet,Returned,
+ORD10139,CUST0138,Ananya Reddy,Ahmedabad,Gujarat,Fashion,Sunglasses,1,1488,0,0,1488,09-04-2025,UPI,Cancelled,
+ORD10387,CUST0107,Rahul Iyer,Pune,Maharashtra,Books,History Encyclopedia,1,581.76,10,72.36,595.94,29-02-2024,Cash on Delivery,Delivered,5
+ORD10156,CUST0169,Geeta Kulkarni,Nagpur,Maharashtra,Beauty & Personal Care,Lipstick Set,1,268.75,0,61.25,330,14-04-2025,Wallet,Delivered,4
+ORD10385,CUST0053,Deepak Sharma,Bengaluru,Karnataka,Sports & Fitness,Skipping Rope,1,2841.78,5,0,2699.69,15-05-2025,Credit Card,Shipped,
+ORD10228,CUST0076,Priya Malhotra,Jaipur,Rajasthan,Groceries,Basmati Rice 5kg,2,313.25,10,45.67,609.52,03-06-2025,Cash on Delivery,Returned,
+ORD10282,CUST0068,Vihaan Joshi,Nagpur,Maharashtra,Groceries,Assorted Dry Fruits Pack,1,310.83,0,42.05,352.88,21-12-2025,Net Banking,Delivered,5
+ORD10054,CUST0004,Ajay Malhotra,Mumbai,Maharashtra,Beauty & Personal Care,Lipstick Set,1,889.79,10,74.64,875.45,25-04-2025,Net Banking,Delivered,4
+ORD10246,CUST0002,Anika Joshi,Mysuru,Karnataka,Electronics,Wireless Mouse,3,2267.22,5,0,6461.58,19-09-2024,Debit Card,Returned,
+ORD10140,CUST0179,Vihaan Pillai,Noida,Uttar Pradesh,Beauty & Personal Care,Electric Trimmer,4,967.34,0,0,3869.36,24-08-2025,Wallet,Cancelled,
+ORD10229,CUST0135,Ananya Gupta,Surat,Gujarat,Electronics,Laptop Sleeve,1,1441.91,15,0,1225.62,24-09-2025,Debit Card,Shipped,
+ORD10250,CUST0017,Sai Pillai,Chennai,Tamil Nadu,Electronics,Smartwatch,2,4702.1,15,0,7993.57,03-09-2025,Cash on Delivery,Delivered,4
+ORD10067,CUST0068,Vihaan Joshi,Nagpur,Maharashtra,Groceries,Multigrain Atta 5kg,3,987.92,10,0,2667.38,26-08-2025,Wallet,Returned,
+ORD10374,CUST0003,Reyansh Pillai,Nagpur,Maharashtra,Home & Kitchen,Storage Organizer Box,1,2484.67,20,0,1987.74,10-12-2025,Debit Card,Delivered,2
+ORD10217,CUST0105,Anika Patel,Ahmedabad,Gujarat,Groceries,Assorted Dry Fruits Pack,1,895.24,0,96.27,991.51,26-11-2025,Cash on Delivery,Delivered,4
+ORD10309,CUST0081,Priya Gupta,Hyderabad,Telangana,Groceries,Multigrain Atta 5kg,1,1008.92,0,0,1008.92,22-11-2024,Wallet,Returned,
+ORD10389,CUST0001,Krishna Sharma,Hyderabad,Telangana,Sports & Fitness,Adjustable Dumbbell Set,1,1495.74,5,0,1420.95,15-08-2025,Credit Card,Delivered,4
+ORD10100,CUST0167,Manoj Bose,Delhi,Delhi,Fashion,Woolen Sweater,4,2609.64,5,0,9916.63,07-02-2024,Debit Card,Shipped,
+ORD10149,CUST0038,Manoj Bose,Nagpur,Maharashtra,Groceries,Cold Pressed Oil 1L,3,1238.42,0,0,3715.26,03-01-2024,UPI,Returned,
+ORD10016,CUST0160,Saanvi Malhotra,Ahmedabad,Gujarat,Beauty & Personal Care,Face Moisturizer,2,630.62,0,0,1261.24,07-02-2025,Cash on Delivery,Shipped,
+ORD10191,CUST0059,Ananya Patel,Indore,Madhya Pradesh,Beauty & Personal Care,Sunscreen SPF50,1,555.86,15,64.19,536.67,15-11-2025,UPI,Delivered,4
+ORD10047,CUST0079,Anika Mehta,Gurugram,Haryana,Home & Kitchen,Steel Water Bottle,1,573.46,25,90.41,520.5,03-05-2024,Wallet,Delivered,4
+ORD10087,CUST0156,Geeta Kulkarni,Bengaluru,Karnataka,Groceries,Organic Honey 500g,1,619.62,5,72.11,660.75,27-12-2025,Debit Card,Delivered,5
+ORD10038,CUST0098,Arjun Agarwal,Nagpur,Maharashtra,Home & Kitchen,Non-stick Pan,2,1857.84,0,0,3715.68,21-05-2025,UPI,Delivered,4
+ORD10376,CUST0176,Anika Nair,Pune,Maharashtra,Beauty & Personal Care,Perfume 100ml,1,190.02,25,77.27,219.79,14-11-2024,Wallet,Delivered,5
+ORD10348,CUST0082,Vikram Joshi,Nagpur,Maharashtra,Books,Fiction Novel,3,561.94,5,0,1601.53,27-07-2025,Wallet,Delivered,5
+ORD10074,CUST0007,Vivaan Pillai,Gurugram,Haryana,Electronics,USB-C Cable,2,1991.9,0,0,3983.8,21-11-2025,Cash on Delivery,Shipped,
+ORD10265,CUST0074,Kavya Mehta,Bengaluru,Karnataka,Home & Kitchen,Non-stick Pan,1,2166.69,0,0,2166.69,02-11-2025,UPI,Delivered,4
+ORD10105,CUST0137,Kavya Joshi,Hyderabad,Telangana,Books,Fiction Novel,4,859.49,10,0,3094.16,03-10-2025,Wallet,Returned,
+ORD10315,CUST0049,Meera Mukherjee,Chandigarh,Chandigarh,Groceries,Organic Honey 500g,4,602.67,10,0,2169.61,25-05-2025,Cash on Delivery,Delivered,4
+ORD10201,CUST0166,Rajesh Kapoor,Gurugram,Haryana,Groceries,Organic Honey 500g,2,931.74,10,0,1677.13,29-08-2024,Credit Card,Delivered,4
+ORD10017,CUST0170,Anika Rao,Noida,Uttar Pradesh,Electronics,Bluetooth Headphones,1,961.34,15,34.22,851.36,20-10-2025,Net Banking,Delivered,1
+ORD10327,CUST0011,Amit Patel,Mysuru,Karnataka,Electronics,Wireless Mouse,2,1669.81,10,0,3005.66,20-05-2024,Wallet,Delivered,5
+ORD10089,CUST0030,Sneha Patel,Nagpur,Maharashtra,Books,Self-Help Bestseller,3,625.95,0,0,1877.85,25-10-2025,Debit Card,Delivered,3
+ORD10343,CUST0045,Amit Reddy,Chennai,Tamil Nadu,Books,History Encyclopedia,1,674.36,0,98.74,773.1,16-12-2024,Cash on Delivery,Delivered,1
+ORD10141,CUST0040,Ananya Malhotra,Chandigarh,Chandigarh,Books,Cookbook,2,593.5,5,0,1127.65,11-04-2024,Net Banking,Shipped,
+ORD10103,CUST0020,Myra Rao,Nagpur,Maharashtra,Books,Fiction Novel,3,410.36,0,0,1231.08,12-12-2024,Cash on Delivery,Cancelled,
+ORD10214,CUST0088,Ananya Chopra,Pune,Maharashtra,Sports & Fitness,Yoga Mat,1,1052.5,5,0,999.88,31-05-2025,Wallet,Delivered,4
+ORD10171,CUST0074,Kavya Mehta,Bengaluru,Karnataka,Beauty & Personal Care,Lipstick Set,5,966.8,0,0,4834,26-12-2024,Credit Card,Shipped,
+ORD10205,CUST0165,Vinod Kulkarni,Jaipur,Rajasthan,Sports & Fitness,Skipping Rope,3,3741.05,10,0,10100.83,26-11-2024,Wallet,Delivered,5
+ORD10158,CUST0126,Rekha Sharma,Bengaluru,Karnataka,Sports & Fitness,Resistance Bands,2,509.68,20,0,815.49,16-03-2024,Credit Card,Delivered,2
+ORD10071,CUST0032,Aadhya Bose,Ahmedabad,Gujarat,Books,Cookbook,2,811,5,0,1540.9,07-11-2024,Wallet,Delivered,4
+ORD10134,CUST0098,Arjun Agarwal,Nagpur,Maharashtra,Groceries,Multigrain Atta 5kg,5,279.5,10,0,1257.75,15-01-2025,Credit Card,Cancelled,
+ORD10254,CUST0135,Ananya Gupta,Surat,Gujarat,Home & Kitchen,LED Table Lamp,2,2837.07,10,0,5106.73,22-06-2025,Cash on Delivery,Shipped,
+ORD10450,CUST0176,Anika Nair,Pune,Maharashtra,Home & Kitchen,Curtain Set,1,1412.61,5,0,1341.98,31-07-2025,Wallet,Delivered,5
+ORD10284,CUST0019,Saanvi Iyer,Mumbai,Maharashtra,Books,Python Programming Guide,5,238.12,5,0,1131.07,31-12-2025,Net Banking,Delivered,5
+ORD10195,CUST0104,Kiara Mehta,Coimbatore,Tamil Nadu,Electronics,Laptop Sleeve,2,2806.27,20,0,4490.03,24-06-2024,Cash on Delivery,Delivered,5
+ORD10303,CUST0012,Aadhya Kulkarni,Bengaluru,Karnataka,Sports & Fitness,Skipping Rope,2,1186.25,10,0,2135.25,28-09-2024,Wallet,Delivered,5
+ORD10431,CUST0118,Rohan Patel,Chennai,Tamil Nadu,Fashion,Formal Shirt,1,2777.33,5,0,2638.46,22-06-2024,Debit Card,Cancelled,
+ORD10329,CUST0036,Priya Menon,Ahmedabad,Gujarat,Home & Kitchen,Study Table,1,3454.99,0,0,3454.99,22-11-2024,,Delivered,5
+ORD10019,CUST0055,Vihaan Joshi,Patna,Bihar,Books,Fiction Novel,2,682.21,15,0,1159.76,11-12-2024,,Delivered,3
+ORD10178,CUST0047,Aarav Patel,Indore,Madhya Pradesh,Groceries,Organic Honey 500g,1,609.52,10,45.97,594.54,02-08-2025,Wallet,Delivered,4
+ORD10443,CUST0118,Rohan Patel,Chennai,Tamil Nadu,Beauty & Personal Care,Herbal Shampoo,2,354.23,0,83.65,792.11,14-12-2025,Debit Card,Delivered,5
+ORD10021,CUST0139,Aditya Bose,Noida,Uttar Pradesh,Electronics,Laptop Sleeve,1,597.72,5,51.76,619.59,17-08-2024,Wallet,Delivered,5
+ORD10056,CUST0017,Sai Pillai,Chennai,Tamil Nadu,Books,Children's Picture Book,2,778.38,10,0,1401.08,16-03-2024,Cash on Delivery,Cancelled,
+ORD10259,CUST0086,Kavya Bose,Lucknow,Uttar Pradesh,Fashion,Men's Cotton T-Shirt,1,1594.92,0,0,1594.92,26-12-2024,Cash on Delivery,Delivered,1
+ORD10436,CUST0016,Sunita Reddy,Ahmedabad,Gujarat,Beauty & Personal Care,Perfume 100ml,1,1466.07,10,0,1319.46,13-11-2025,Cash on Delivery,Delivered,5
+ORD10325,CUST0101,Vinod Verma,Chandigarh,Chandigarh,Home & Kitchen,Storage Organizer Box,1,1701.23,0,0,1701.23,25-07-2025,UPI,Returned,
+ORD10035,CUST0138,Ananya Reddy,Ahmedabad,Gujarat,Groceries,Green Tea Box,1,721.55,15,54.45,667.77,21-04-2025,Net Banking,Returned,
+ORD10182,CUST0014,Suresh Deshmukh,Chandigarh,Chandigarh,Fashion,Denim Jacket,1,2123.13,15,0,1804.66,24-09-2025,Credit Card,Cancelled,
+ORD10185,CUST0132,Aadhya Joshi,Bengaluru,Karnataka,Electronics,Laptop Sleeve,1,3734.08,25,0,2800.56,16-03-2025,Credit Card,Delivered,4
+ORD10151,CUST0170,Anika Rao,Noida,Uttar Pradesh,Groceries,Basmati Rice 5kg,5,690.14,5,0,3278.16,14-05-2024,Credit Card,Delivered,5
+ORD10301,CUST0149,Priya Deshmukh,Coimbatore,Tamil Nadu,Fashion,Denim Jacket,2,2537.37,10,0,4567.27,05-11-2025,Cash on Delivery,Cancelled,
+ORD10337,CUST0159,Ishita Pillai,Mysuru,Karnataka,Groceries,Green Tea Box,1,1076.79,0,0,1076.79,31-05-2024,Wallet,Delivered,5
+ORD10237,CUST0065,Amit Sharma,Patna,Bihar,Electronics,Smartwatch,1,4380.8,5,0,4161.76,15-01-2025,Cash on Delivery,Delivered,5
+ORD10281,CUST0048,Diya Mukherjee,Bengaluru,Karnataka,Books,History Encyclopedia,4,618.72,10,0,2227.39,31-01-2025,Cash on Delivery,Delivered,5
+ORD10098,CUST0099,Anika Chopra,Bengaluru,Karnataka,Fashion,Sunglasses,2,2972.89,5,0,5648.49,14-02-2024,UPI,Cancelled,
+ORD10360,CUST0023,Ananya Deshmukh,Kolkata,West Bengal,Sports & Fitness,Skipping Rope,2,2884.75,0,0,5769.5,25-08-2024,Cash on Delivery,Cancelled,
+ORD10155,CUST0028,Myra Kulkarni,Mumbai,Maharashtra,Books,History Encyclopedia,1,252.83,0,40.83,293.66,14-08-2024,Cash on Delivery,Delivered,4
+ORD10123,CUST0091,Deepak Nair,Gurugram,Haryana,Fashion,Running Shoes,1,1979.85,10,0,1781.86,27-09-2025,UPI,Cancelled,
+ORD10114,CUST0128,Aditya Deshmukh,Patna,Bihar,Beauty & Personal Care,Herbal Shampoo,4,1480.1,15,0,5032.34,25-08-2024,Net Banking,Cancelled,
+ORD10420,CUST0049,Meera Mukherjee,Chandigarh,Chandigarh,Sports & Fitness,Yoga Mat,1,2335.73,25,0,1751.8,05-05-2025,Debit Card,Cancelled,
+ORD10302,CUST0155,Priya Iyer,Coimbatore,Tamil Nadu,Home & Kitchen,Study Table,1,1146.23,10,0,1031.61,12-02-2024,Credit Card,Delivered,1
+ORD10369,CUST0050,Saanvi Nair,Kolkata,West Bengal,Fashion,Handbag,3,1499.53,10,0,4048.73,16-10-2025,Net Banking,Returned,
+ORD10109,CUST0026,Anika Gupta,Jaipur,Rajasthan,Books,Python Programming Guide,1,452.22,20,53.56,415.34,11-12-2025,UPI,Delivered,4
+ORD10378,CUST0035,Sunita Patel,Patna,Bihar,Books,Python Programming Guide,1,625.28,30,32.37,470.07,10-04-2025,Wallet,Shipped,
+ORD10095,CUST0126,Rekha Sharma,Bengaluru,Karnataka,Groceries,Organic Honey 500g,1,1076.36,0,0,1076.36,02-04-2025,Cash on Delivery,Delivered,4
+ORD10240,CUST0112,Anika Deshmukh,Chennai,Tamil Nadu,Electronics,USB-C Cable,1,953.97,20,97.91,861.09,06-04-2025,UPI,Delivered,5
+ORD10126,CUST0094,Rahul Verma,Mumbai,Maharashtra,Sports & Fitness,Adjustable Dumbbell Set,4,3582,5,0,13611.6,02-04-2024,UPI,Delivered,5
+ORD10285,CUST0175,Neha Bose,Ahmedabad,Gujarat,Groceries,Assorted Dry Fruits Pack,2,283.68,15,44.71,526.97,14-11-2025,UPI,Cancelled,
+ORD10438,CUST0106,Ishaan Rao,Jaipur,Rajasthan,Electronics,Wireless Mouse,2,3893.61,0,0,7787.22,26-06-2025,Wallet,Delivered,5
+ORD10092,CUST0099,Anika Chopra,Bengaluru,Karnataka,Fashion,Handbag,4,1310.78,25,0,3932.34,04-06-2025,Wallet,Delivered,2
+ORD10432,CUST0140,Saanvi Kapoor,Kolkata,West Bengal,Books,Python Programming Guide,5,780.14,0,0,3900.7,09-07-2025,Wallet,Delivered,2
+ORD10382,CUST0093,Ajay Pillai,Mumbai,Maharashtra,Electronics,Webcam HD,2,4095.88,15,0,6963,24-04-2024,Credit Card,Returned,
+ORD10269,CUST0109,Reyansh Iyer,Bhopal,Madhya Pradesh,Electronics,Mechanical Keyboard,2,1393.91,0,0,2787.82,08-09-2025,Debit Card,Shipped,
+ORD10241,CUST0107,Rahul Iyer,Pune,Maharashtra,Electronics,Mechanical Keyboard,1,1578.84,0,0,1578.84,29-05-2025,UPI,Delivered,2
+ORD10238,CUST0133,Suresh Pillai,Surat,Gujarat,Groceries,Basmati Rice 5kg,2,609.26,0,0,1218.52,18-10-2024,Credit Card,Returned,
+ORD10372,CUST0002,Anika Joshi,Mysuru,Karnataka,Home & Kitchen,Ceramic Dinner Set,2,3399.71,0,0,6799.42,29-08-2024,Net Banking,Returned,
+ORD10025,CUST0066,Rekha Joshi,Patna,Bihar,Groceries,Assorted Dry Fruits Pack,1,129.5,0,31.2,160.7,20-06-2024,Cash on Delivery,Shipped,
+ORD10294,CUST0133,Suresh Pillai,Surat,Gujarat,Home & Kitchen,Cotton Bedsheet Set,2,1346.77,10,0,2424.19,18-07-2025,Wallet,Shipped,
+ORD10317,CUST0130,Ishaan Verma,Chennai,Tamil Nadu,Books,Python Programming Guide,1,269.48,0,74.62,344.1,08-08-2024,Cash on Delivery,Delivered,4
+ORD10288,CUST0093,Ajay Pillai,Mumbai,Maharashtra,Beauty & Personal Care,Herbal Shampoo,3,1439.13,20,0,3453.91,04-05-2024,Debit Card,Returned,
+ORD10206,CUST0039,Vihaan Reddy,Mysuru,Karnataka,Books,Self-Help Bestseller,4,664.79,0,0,2659.16,25-04-2025,Net Banking,Cancelled,
+ORD10328,CUST0122,Sai Malhotra,Hyderabad,Telangana,Beauty & Personal Care,Electric Trimmer,2,202.49,5,36.35,421.08,01-06-2024,Cash on Delivery,Shipped,
+ORD10127,CUST0107,Rahul Iyer,Pune,Maharashtra,Fashion,Running Shoes,1,766.33,5,53.73,781.74,15-05-2024,Cash on Delivery,Delivered,5
+ORD10370,CUST0110,Aadhya Mukherjee,Hyderabad,Telangana,Beauty & Personal Care,Lipstick Set,1,1049.27,0,0,1049.27,29-03-2024,Net Banking,Cancelled,
+ORD10079,CUST0027,Neha Patel,Bhopal,Madhya Pradesh,Groceries,Organic Honey 500g,1,129.42,25,87.52,184.58,03-12-2024,Net Banking,Cancelled,
+ORD10257,CUST0092,Ishita Mehta,Mumbai,Maharashtra,Groceries,Basmati Rice 5kg,3,977.67,15,0,2493.06,19-12-2024,Debit Card,Cancelled,
+ORD10179,CUST0018,Geeta Deshmukh,Patna,Bihar,Fashion,Men's Cotton T-Shirt,2,1042.73,10,0,1876.91,03-04-2024,Wallet,Shipped,
+ORD10059,CUST0153,Priya Sharma,Indore,Madhya Pradesh,Groceries,Cold Pressed Oil 1L,2,1052.77,10,0,1894.99,19-08-2024,Cash on Delivery,Delivered,5
+ORD10440,CUST0111,Ishaan Deshmukh,Nagpur,Maharashtra,Groceries,Organic Honey 500g,1,261.2,25,67.47,263.37,19-04-2024,Credit Card,Shipped,
+ORD10338,CUST0009,Rajesh Menon,Hyderabad,Telangana,Beauty & Personal Care,Perfume 100ml,1,1252.35,5,0,1189.73,22-04-2024,Debit Card,Delivered,5
+ORD10224,CUST0033,Vikram Nair,Hyderabad,Telangana,Sports & Fitness,Badminton Racket,3,3794.24,5,0,10813.58,02-12-2025,Cash on Delivery,Delivered,4
+ORD10334,CUST0177,Reyansh Malhotra,Noida,Uttar Pradesh,Sports & Fitness,Yoga Mat,1,596.36,10,78.45,615.17,03-09-2025,Net Banking,Delivered,3
+ORD10377,CUST0164,Aadhya Malhotra,Patna,Bihar,Home & Kitchen,Storage Organizer Box,1,2373.32,5,0,2254.65,21-09-2025,Debit Card,Delivered,5
+ORD10322,CUST0144,Riya Deshmukh,Indore,Madhya Pradesh,Fashion,Formal Shirt,2,1573.19,0,0,3146.38,20-07-2025,UPI,Delivered,4
+ORD10062,CUST0054,Pooja Rao,Noida,Uttar Pradesh,Sports & Fitness,Adjustable Dumbbell Set,1,257.74,25,58.97,252.28,27-09-2024,Wallet,Delivered,1
+ORD10396,CUST0033,Vikram Nair,Hyderabad,Telangana,Sports & Fitness,Adjustable Dumbbell Set,1,1381.97,10,0,1243.77,04-01-2024,Credit Card,Delivered,5
+ORD10094,CUST0001,Krishna Sharma,Hyderabad,Telangana,Home & Kitchen,Wall Clock,2,433.92,5,88.14,912.59,24-08-2025,Cash on Delivery,Cancelled,
+ORD10366,CUST0050,Saanvi Nair,Kolkata,West Bengal,Groceries,Basmati Rice 5kg,4,478.39,10,0,1722.2,04-12-2024,Debit Card,Cancelled,
+ORD10271,CUST0076,Priya Malhotra,Jaipur,Rajasthan,Home & Kitchen,Vacuum Flask,4,2834.98,30,0,7937.94,09-09-2025,Wallet,Delivered,4
+ORD10070,CUST0079,Anika Mehta,Gurugram,Haryana,Beauty & Personal Care,Perfume 100ml,1,1226.7,10,0,1104.03,05-08-2025,UPI,Delivered,5
+ORD10037,CUST0116,Reyansh Nair,Hyderabad,Telangana,Fashion,Woolen Sweater,1,1032.31,0,0,1032.31,06-08-2025,Cash on Delivery,Cancelled,
+ORD10041,CUST0049,Meera Mukherjee,Chandigarh,Chandigarh,Electronics,USB-C Cable,2,1415.9,15,0,2407.03,20-02-2025,Net Banking,Shipped,
+ORD10161,CUST0153,Priya Sharma,Indore,Madhya Pradesh,Beauty & Personal Care,Lipstick Set,2,647.03,5,0,1229.36,09-04-2025,Cash on Delivery,Shipped,
+ORD10323,CUST0099,Anika Chopra,Bengaluru,Karnataka,Beauty & Personal Care,Electric Trimmer,2,729.91,0,0,1459.82,17-07-2025,UPI,Returned,
+ORD10012,CUST0100,Nitin Joshi,Patna,Bihar,Groceries,Green Tea Box,1,894.03,5,65.4,914.73,05-07-2025,Wallet,Cancelled,
+ORD10358,CUST0105,Anika Patel,Ahmedabad,Gujarat,Sports & Fitness,Resistance Bands,1,478.29,0,65.38,543.67,03-05-2025,Wallet,Delivered,4
+ORD10145,CUST0071,Deepak Mehta,Bhopal,Madhya Pradesh,Fashion,Women's Kurti,2,1954.85,15,0,3323.24,10-04-2025,Credit Card,Cancelled,
+ORD10417,CUST0097,Manoj Iyer,Delhi,Delhi,Sports & Fitness,Skipping Rope,3,2672.33,10,0,7215.29,09-09-2025,Credit Card,Returned,
+ORD10319,CUST0168,Sai Rao,Indore,Madhya Pradesh,Sports & Fitness,Resistance Bands,1,3499.77,15,0,2974.8,19-10-2024,Cash on Delivery,Delivered,5
+ORD10172,CUST0130,Ishaan Verma,Chennai,Tamil Nadu,Fashion,Denim Jacket,1,669.36,0,40.25,709.61,03-11-2025,Net Banking,Delivered,4
+ORD10128,CUST0136,Vivaan Gupta,Coimbatore,Tamil Nadu,Beauty & Personal Care,Lipstick Set,1,1464.43,30,0,1025.1,17-06-2024,UPI,Returned,
+ORD10260,CUST0165,Vinod Kulkarni,Jaipur,Rajasthan,Fashion,Woolen Sweater,4,357.42,15,0,1215.23,13-12-2025,Net Banking,Cancelled,
+ORD10010,CUST0108,Vikram Agarwal,Patna,Bihar,Books,History Encyclopedia,2,342.69,0,76.9,762.28,13-12-2025,Credit Card,Returned,
+ORD10339,CUST0113,Ananya Kapoor,Bhopal,Madhya Pradesh,Home & Kitchen,Ceramic Dinner Set,1,2613.25,0,0,2613.25,04-06-2024,Net Banking,Cancelled,
+ORD10177,CUST0070,Manoj Joshi,Hyderabad,Telangana,Sports & Fitness,Cricket Bat,1,1262.92,15,0,1073.48,13-12-2024,UPI,Delivered,4
+ORD10232,CUST0094,Rahul Verma,Mumbai,Maharashtra,Sports & Fitness,Badminton Racket,1,988.97,0,41.7,1030.67,31-08-2024,Net Banking,Shipped,
+ORD10211,CUST0149,Priya Deshmukh,Coimbatore,Tamil Nadu,Beauty & Personal Care,Perfume 100ml,1,601.52,15,29.32,540.61,12-02-2024,Net Banking,Returned,
+ORD10129,CUST0124,Ishaan Patel,Delhi,Delhi,Groceries,Assorted Dry Fruits Pack,2,742.32,5,0,1410.41,12-12-2024,Credit Card,Delivered,5
+ORD10144,CUST0095,Ajay Bose,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume 100ml,3,693.7,0,0,2081.1,02-01-2025,Credit Card,Delivered,3
+ORD10242,CUST0099,Anika Chopra,Bengaluru,Karnataka,Electronics,Laptop Sleeve,1,3008.63,0,0,3008.63,17-08-2024,Credit Card,Delivered,5
+ORD10008,CUST0040,Ananya Malhotra,Chandigarh,Chandigarh,Sports & Fitness,Adjustable Dumbbell Set,1,2153.09,10,0,1937.78,06-03-2024,Net Banking,Delivered,3
+ORD10255,CUST0130,Ishaan Verma,Chennai,Tamil Nadu,Beauty & Personal Care,Face Moisturizer,1,945.81,5,35.41,933.93,03-02-2025,Net Banking,Delivered,2
+ORD10335,CUST0168,Sai Rao,Indore,Madhya Pradesh,Groceries,Cold Pressed Oil 1L,4,161.37,10,78.63,659.56,14-08-2025,Debit Card,Cancelled,
+ORD10355,CUST0013,Sai Chopra,Bengaluru,Karnataka,Sports & Fitness,Skipping Rope,1,2452.21,0,0,2452.21,19-08-2024,Wallet,Delivered,4
+ORD10009,CUST0085,Sai Joshi,Delhi,Delhi,Beauty & Personal Care,Electric Trimmer,2,379.21,0,95.42,853.84,01-03-2025,Credit Card,Delivered,1
+ORD10157,CUST0016,Sunita Reddy,Ahmedabad,Gujarat,Books,Children's Picture Book,1,501.73,10,31.75,483.31,12-03-2025,Wallet,Delivered,5
+ORD10028,CUST0051,Ananya Pillai,Indore,Madhya Pradesh,Electronics,Webcam HD,1,1660.83,0,0,1660.83,08-12-2025,Wallet,Delivered,2
+ORD10267,CUST0113,Ananya Kapoor,Bhopal,Madhya Pradesh,Books,Fiction Novel,1,351.23,10,84.35,400.46,10-07-2024,Net Banking,Cancelled,
+ORD10065,CUST0075,Reyansh Malhotra,Kolkata,West Bengal,Electronics,USB-C Cable,4,3570.34,10,0,12853.22,22-10-2024,Wallet,Delivered,3
+ORD10256,CUST0163,Aarav Rao,Chennai,Tamil Nadu,Books,Fiction Novel,1,859.19,5,41.96,858.19,16-09-2024,Wallet,Delivered,5
+ORD10290,CUST0147,Diya Menon,Hyderabad,Telangana,Home & Kitchen,Vacuum Flask,1,1546.9,5,0,1469.56,18-07-2025,Debit Card,Shipped,
+ORD10154,CUST0017,Sai Pillai,Chennai,Tamil Nadu,Books,Children's Picture Book,1,816.43,5,75.73,851.34,05-01-2025,Cash on Delivery,Shipped,
+ORD10049,CUST0056,Sai Iyer,Lucknow,Uttar Pradesh,Sports & Fitness,Resistance Bands,1,552.79,20,92.03,534.26,10-10-2024,Wallet,Shipped,
+ORD10209,CUST0015,Kiara Verma,Jaipur,Rajasthan,Home & Kitchen,Wall Clock,2,610.39,25,0,915.58,19-03-2024,Wallet,Returned,
+ORD10002,CUST0114,Meera Agarwal,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume 100ml,1,359.59,0,89.63,449.22,31-05-2025,Net Banking,Returned,
+ORD10270,CUST0076,Priya Malhotra,Jaipur,Rajasthan,Home & Kitchen,LED Table Lamp,3,269.19,20,66.03,712.09,22-03-2024,UPI,Cancelled,
+ORD10266,CUST0032,Aadhya Bose,Ahmedabad,Gujarat,Groceries,Assorted Dry Fruits Pack,1,934.55,5,79.73,967.55,23-03-2025,Net Banking,Cancelled,
+ORD10297,CUST0043,,Pune,Maharashtra,Fashion,Formal Shirt,2,2167.05,10,0,3900.69,27-12-2025,Debit Card,Delivered,5
+ORD10304,CUST0147,Diya Menon,Hyderabad,Telangana,Books,History Encyclopedia,2,184.58,15,66.89,380.68,16-10-2025,Credit Card,Delivered,1
+ORD10096,CUST0089,Neha Patel,Jaipur,Rajasthan,Home & Kitchen,Curtain Set,2,2274.51,20,0,3639.22,10-07-2025,Net Banking,Delivered,5
+ORD10442,CUST0091,Deepak Nair,Gurugram,Haryana,Home & Kitchen,Ceramic Dinner Set,1,547.69,10,44.12,537.04,21-03-2024,UPI,Delivered,5
+ORD10293,CUST0033,Vikram Nair,Hyderabad,Telangana,Home & Kitchen,LED Table Lamp,1,1784.94,10,0,1606.45,05-04-2025,Net Banking,Cancelled,
+ORD10117,CUST0089,Neha Patel,Jaipur,Rajasthan,Beauty & Personal Care,Lipstick Set,1,781.69,0,37.32,819.01,16-10-2025,Net Banking,Cancelled,
+ORD10046,CUST0141,Meera Joshi,Noida,Uttar Pradesh,Home & Kitchen,Storage Organizer Box,2,1475.23,25,0,2212.85,20-12-2025,Net Banking,Delivered,4
+ORD10162,CUST0111,Ishaan Deshmukh,Nagpur,Maharashtra,Electronics,Bluetooth Headphones,2,471.41,0,78.93,1021.75,01-11-2025,Wallet,Returned,
+ORD10449,CUST0178,Diya Mukherjee,Jaipur,Rajasthan,Beauty & Personal Care,Electric Trimmer,1,724.21,0,91.06,815.27,04-10-2024,Credit Card,Delivered,4
+ORD10118,CUST0065,Amit Sharma,Patna,Bihar,Books,Fiction Novel,1,618.37,15,69.84,595.45,22-07-2024,Net Banking,Returned,
+ORD10289,CUST0036,Priya Menon,Ahmedabad,Gujarat,Fashion,Woolen Sweater,2,2050.92,10,0,3691.66,27-01-2024,UPI,Shipped,
+ORD10078,CUST0121,Deepak Patel,Mumbai,Maharashtra,Home & Kitchen,Ceramic Dinner Set,2,1092.75,5,0,2076.22,07-12-2024,UPI,Cancelled,
+ORD10356,CUST0014,Suresh Deshmukh,Chandigarh,Chandigarh,Electronics,Mechanical Keyboard,4,1512.23,10,0,5444.03,04-12-2024,Wallet,Delivered,4
+ORD10064,CUST0001,Krishna Sharma,Hyderabad,Telangana,Books,Children's Picture Book,3,352.54,0,0,1057.62,06-12-2025,Cash on Delivery,Delivered,5
+ORD10231,CUST0160,Saanvi Malhotra,Ahmedabad,Gujarat,Groceries,Organic Honey 500g,2,344.98,0,91.74,781.7,24-03-2025,Credit Card,Delivered,3
+ORD10298,CUST0133,Suresh Pillai,Surat,Gujarat,Home & Kitchen,LED Table Lamp,2,722.4,20,0,1155.84,13-09-2024,Debit Card,Cancelled,
+ORD10187,CUST0079,Anika Mehta,Gurugram,Haryana,Electronics,USB-C Cable,2,955.93,15,0,1625.08,08-02-2025,Cash on Delivery,Delivered,4
+ORD10307,CUST0019,Saanvi Iyer,Mumbai,Maharashtra,Sports & Fitness,Yoga Mat,2,454.93,10,53.21,872.08,10-06-2024,Net Banking,Delivered,5
+ORD10200,CUST0131,Pooja Verma,Kolkata,West Bengal,Fashion,Formal Shirt,1,879.44,15,79.4,826.92,25-12-2024,Wallet,Returned,
+ORD10311,CUST0028,Myra Kulkarni,Mumbai,Maharashtra,Home & Kitchen,Steel Water Bottle,2,1670.48,0,0,3340.96,22-04-2025,Credit Card,Delivered,1
+ORD10122,CUST0156,Geeta Kulkarni,Bengaluru,Karnataka,Sports & Fitness,Resistance Bands,1,2303.65,25,0,1727.74,20-10-2024,Debit Card,Shipped,
+ORD10422,CUST0083,Rajesh Pillai,Bengaluru,Karnataka,Groceries,Assorted Dry Fruits Pack,1,215.01,5,81.93,286.19,24-01-2025,Net Banking,Shipped,
+ORD10395,CUST0090,Ishita Malhotra,Bhopal,Madhya Pradesh,Electronics,Smartphone Stand,1,1743.26,15,0,1481.77,04-07-2025,Net Banking,Shipped,
+ORD10159,CUST0156,Geeta Kulkarni,Bengaluru,Karnataka,Fashion,Women's Kurti,1,1010.41,15,0,858.85,09-05-2024,UPI,Shipped,
+ORD10086,CUST0113,Ananya Kapoor,Bhopal,Madhya Pradesh,Sports & Fitness,Resistance Bands,1,570.77,5,62.14,604.37,04-05-2024,Credit Card,Cancelled,
+ORD10226,CUST0093,Ajay Pillai,Mumbai,Maharashtra,Home & Kitchen,Cotton Bedsheet Set,2,2373.45,0,0,4746.9,07-08-2024,UPI,Returned,
+ORD10263,CUST0052,Aarav Agarwal,Coimbatore,Tamil Nadu,Electronics,Laptop Sleeve,1,4643.66,30,0,3250.56,13-11-2024,Cash on Delivery,Delivered,2
+ORD10365,CUST0135,Ananya Gupta,Surat,Gujarat,Books,Python Programming Guide,1,848.28,0,37.55,885.83,31-05-2025,Net Banking,Delivered,5
+ORD10077,CUST0047,Aarav Patel,Indore,Madhya Pradesh,Beauty & Personal Care,Electric Trimmer,2,1466.4,10,0,2639.52,12-10-2025,Net Banking,Delivered,4
+ORD10354,CUST0028,Myra Kulkarni,Mumbai,Maharashtra,Beauty & Personal Care,Perfume 100ml,1,482.76,20,60.17,446.38,23-08-2025,Debit Card,Delivered,5
+ORD10409,CUST0143,Amit Patel,Nagpur,Maharashtra,Books,Self-Help Bestseller,1,612.58,10,67.27,618.59,18-12-2024,Wallet,Cancelled,
+ORD10088,CUST0142,Vivaan Mehta,Ahmedabad,Gujarat,Electronics,Portable SSD 1TB,1,2059.68,10,0,1853.71,21-02-2025,Credit Card,Delivered,5
+ORD10413,CUST0037,Pooja Joshi,Mysuru,Karnataka,Groceries,Green Tea Box,1,223.93,15,69.49,259.83,29-02-2024,,Delivered,4
+ORD10183,CUST0021,Myra Reddy,Ahmedabad,Gujarat,Home & Kitchen,Vacuum Flask,1,1755.2,5,0,1667.44,08-11-2025,Net Banking,Delivered,4
+ORD10106,CUST0125,Rajesh Pillai,Surat,Gujarat,Groceries,Cold Pressed Oil 1L,2,637.13,0,0,1274.26,06-02-2024,Cash on Delivery,Delivered,4
+ORD10050,CUST0135,Ananya Gupta,Surat,Gujarat,Beauty & Personal Care,Lipstick Set,2,606.69,5,0,1152.71,12-04-2024,Debit Card,Delivered,5
+ORD10006,CUST0074,Kavya Mehta,Bengaluru,Karnataka,Fashion,Leather Wallet,2,632.61,0,0,1265.22,09-12-2024,UPI,Shipped,
+ORD10018,CUST0119,Vinod Mehta,Coimbatore,Tamil Nadu,Fashion,Men's Cotton T-Shirt,2,795.47,0,0,1590.94,23-09-2024,Net Banking,Delivered,5
+ORD10235,CUST0147,Diya Menon,Hyderabad,Telangana,Books,Children's Picture Book,1,313.45,10,57.66,339.76,15-10-2024,Net Banking,Shipped,
+ORD10362,CUST0102,Sai Malhotra,Patna,Bihar,Groceries,Green Tea Box,1,1112,15,0,945.2,09-07-2024,Wallet,Returned,
+ORD10107,CUST0061,Sunita Mehta,Chennai,Tamil Nadu,Sports & Fitness,Badminton Racket,2,3058.02,15,0,5198.63,21-10-2024,Debit Card,Cancelled,
+ORD10135,CUST0060,Vinod Malhotra,Gurugram,Haryana,Books,Self-Help Bestseller,1,874.93,20,87.68,787.62,26-09-2025,Cash on Delivery,Delivered,5
+ORD10368,CUST0087,Aadhya Chopra,Mumbai,Maharashtra,Groceries,Assorted Dry Fruits Pack,1,1241.17,10,0,1117.05,04-08-2025,Wallet,Returned,
+ORD10227,CUST0125,Rajesh Pillai,Surat,Gujarat,Fashion,Running Shoes,1,884.46,10,30.38,826.39,20-05-2024,Debit Card,Delivered,4
+ORD10215,CUST0011,Amit Patel,Mysuru,Karnataka,Fashion,Woolen Sweater,1,1619.51,5,0,1538.53,25-03-2025,Cash on Delivery,Shipped,
+ORD10191,CUST0059,Ananya Patel,Indore,Madhya Pradesh,Beauty & Personal Care,Sunscreen SPF50,1,555.86,15,64.19,536.67,15-11-2025,UPI,Delivered,4
+ORD10402,CUST0173,Geeta Iyer,Jaipur,Rajasthan,Sports & Fitness,Yoga Mat,2,3311.92,20,0,5299.07,07-09-2024,Wallet,Delivered,4
+ORD10321,CUST0104,Kiara Mehta,Coimbatore,Tamil Nadu,Home & Kitchen,Non-stick Pan,1,3237.8,10,0,2914.02,14-02-2025,Credit Card,Shipped,
+ORD10283,CUST0157,Meera Mukherjee,Chennai,Tamil Nadu,Home & Kitchen,Vacuum Flask,1,389.88,25,90.87,383.28,23-07-2024,Credit Card,Delivered,2
+ORD10030,CUST0031,Aadhya Menon,Coimbatore,Tamil Nadu,Groceries,Cold Pressed Oil 1L,2,322.88,20,66.75,583.36,12-02-2024,UPI,Shipped,
+ORD10170,CUST0091,Deepak Nair,Gurugram,Haryana,Groceries,Multigrain Atta 5kg,1,534.7,10,68.95,550.18,09-03-2025,Wallet,Delivered,4
+ORD10181,CUST0095,Ajay Bose,Indore,Madhya Pradesh,Home & Kitchen,Storage Organizer Box,1,408.14,30,51.56,337.26,04-08-2025,Cash on Delivery,Delivered,5
+ORD10101,CUST0152,Saanvi Patel,Mumbai,Maharashtra,Home & Kitchen,LED Table Lamp,2,2688.99,0,0,5377.98,26-03-2025,Credit Card,Shipped,
+ORD10198,CUST0080,Sunita Kapoor,Mysuru,Karnataka,Sports & Fitness,Cricket Bat,2,619.4,20,0,991.04,14-08-2024,UPI,Returned,
+ORD10210,CUST0024,Aadhya Patel,Nagpur,Maharashtra,Beauty & Personal Care,Sunscreen SPF50,3,849.43,10,0,2293.46,03-06-2025,Net Banking,Delivered,4
+ORD10136,CUST0157,Meera Mukherjee,Chennai,Tamil Nadu,Fashion,Women's Kurti,1,1000.87,0,0,1000.87,12-10-2025,Net Banking,Cancelled,
+ORD10427,CUST0150,Priya Agarwal,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume 100ml,1,1168.62,0,0,1168.62,03-03-2025,UPI,Delivered,5
+ORD10390,CUST0109,Reyansh Iyer,Bhopal,Madhya Pradesh,Home & Kitchen,LED Table Lamp,1,1959.89,10,0,1763.9,08-07-2025,Credit Card,Delivered,5
+ORD10199,CUST0044,Krishna Pillai,Hyderabad,Telangana,Electronics,Portable SSD 1TB,1,2166.25,15,0,1841.31,10-10-2025,Credit Card,Shipped,
+ORD10167,CUST0022,Riya Kapoor,Kolkata,West Bengal,Electronics,Mechanical Keyboard,3,3088.88,10,0,8339.98,08-04-2024,Wallet,Cancelled,
+ORD10351,CUST0074,Kavya Mehta,Bengaluru,Karnataka,Sports & Fitness,Yoga Mat,2,2984.83,0,0,5969.66,20-12-2024,Net Banking,Cancelled,
+ORD10137,CUST0078,Sneha Kulkarni,Bengaluru,Karnataka,Sports & Fitness,Resistance Bands,3,3288.02,30,0,6904.84,29-04-2024,Debit Card,Delivered,1
+ORD10286,CUST0017,Sai Pillai,Chennai,Tamil Nadu,Beauty & Personal Care,Sunscreen SPF50,1,873.92,10,69.61,856.14,24-10-2024,UPI,Returned,
+ORD10336,CUST0014,Suresh Deshmukh,Chandigarh,Chandigarh,Beauty & Personal Care,Electric Trimmer,3,1113.02,15,0,2838.2,23-06-2024,Cash on Delivery,Cancelled,
+ORD10132,CUST0102,Sai Malhotra,Patna,Bihar,Electronics,Power Bank 10000mAh,2,2264.74,25,0,3397.11,03-07-2025,Credit Card,Delivered,5
+ORD10040,CUST0153,Priya Sharma,Indore,Madhya Pradesh,Sports & Fitness,Cricket Bat,5,1118.81,10,0,5034.65,23-07-2025,Credit Card,Shipped,
+ORD10216,CUST0157,Meera Mukherjee,Chennai,Tamil Nadu,Fashion,Formal Shirt,3,1245.58,10,0,3363.07,16-01-2025,UPI,Delivered,5
+ORD10044,CUST0104,Kiara Mehta,Coimbatore,Tamil Nadu,Sports & Fitness,Adjustable Dumbbell Set,1,2444.39,10,0,2199.95,09-11-2024,Wallet,Shipped,
+ORD10055,CUST0088,Ananya Chopra,Pune,Maharashtra,Fashion,Men's Cotton T-Shirt,2,901.43,5,0,1712.72,15-09-2024,Net Banking,Delivered,5
+ORD10430,CUST0066,Rekha Joshi,Patna,Bihar,Groceries,Green Tea Box,1,465.63,5,60.3,502.65,19-10-2025,Wallet,Delivered,5
+ORD10300,CUST0137,Kavya Joshi,Hyderabad,Telangana,Electronics,Portable SSD 1TB,1,3793.49,0,0,3793.49,18-10-2025,Debit Card,Shipped,
+ORD10414,CUST0107,Rahul Iyer,Pune,Maharashtra,Beauty & Personal Care,Sunscreen SPF50,1,264.64,20,42.43,254.14,17-05-2024,Net Banking,Delivered,4
+ORD10305,CUST0161,Diya Agarwal,Patna,Bihar,Beauty & Personal Care,Lipstick Set,1,1003.04,25,0,752.28,19-10-2025,UPI,Delivered,4
+ORD10036,CUST0152,Saanvi Patel,Mumbai,Maharashtra,Home & Kitchen,Storage Organizer Box,5,3375.08,0,0,16875.4,08-09-2024,Credit Card,Delivered,5
+ORD10316,CUST0128,Aditya Deshmukh,Patna,Bihar,Home & Kitchen,Vacuum Flask,1,3446.13,5,0,3273.82,24-01-2024,,Delivered,5
+ORD10310,CUST0089,Neha Patel,Jaipur,Rajasthan,Books,Python Programming Guide,1,357.89,5,82.93,422.93,14-01-2025,Cash on Delivery,Shipped,
+ORD10277,CUST0166,Rajesh Kapoor,Gurugram,Haryana,Home & Kitchen,Storage Organizer Box,1,3458.48,5,0,3285.56,27-01-2025,Cash on Delivery,Delivered,4
+ORD10125,CUST0166,Rajesh Kapoor,Gurugram,Haryana,Electronics,Power Bank 10000mAh,3,512.6,0,0,1537.8,27-03-2025,Credit Card,Shipped,
+ORD10143,CUST0114,Meera Agarwal,Indore,Madhya Pradesh,Books,Python Programming Guide,1,780.75,10,68.27,770.94,06-01-2025,,Cancelled,
+ORD10111,CUST0111,Ishaan Deshmukh,Nagpur,Maharashtra,Fashion,Running Shoes,1,2176.67,0,0,2176.67,27-06-2025,Net Banking,Shipped,
+ORD10324,CUST0160,Saanvi Malhotra,Ahmedabad,Gujarat,Sports & Fitness,Skipping Rope,1,442.99,10,47.83,446.52,01-05-2024,Debit Card,Delivered,5
+ORD10333,CUST0029,Myra Verma,Coimbatore,Tamil Nadu,Books,History Encyclopedia,1,650.57,15,43.01,595.99,11-11-2024,Wallet,Returned,
+ORD10398,CUST0098,Arjun Agarwal,Nagpur,Maharashtra,Groceries,Organic Honey 500g,1,916.34,0,65.76,982.1,10-09-2024,Net Banking,Delivered,5
+ORD10108,CUST0024,Aadhya Patel,Nagpur,Maharashtra,Books,Self-Help Bestseller,2,171.96,5,33.03,359.75,10-10-2025,Wallet,Returned,
+ORD10404,CUST0015,Kiara Verma,Jaipur,Rajasthan,Fashion,Casual Sneakers,3,1220.91,0,0,3662.73,23-10-2024,Debit Card,Returned,
+ORD10013,CUST0140,Saanvi Kapoor,Kolkata,West Bengal,Groceries,Cold Pressed Oil 1L,1,320.83,25,83.26,323.88,13-08-2024,Net Banking,Delivered,2
+ORD10273,CUST0091,Deepak Nair,Gurugram,Haryana,Beauty & Personal Care,Electric Trimmer,3,1477.51,15,0,3767.65,08-10-2024,Wallet,Returned,
+ORD10048,CUST0081,,Hyderabad,Telangana,Electronics,Portable SSD 1TB,2,4139.94,10,0,7451.89,07-12-2025,Debit Card,Delivered,5
+ORD10204,CUST0145,Sneha Pillai,Coimbatore,Tamil Nadu,Groceries,Cold Pressed Oil 1L,1,706.07,10,30.27,665.73,04-04-2025,Wallet,Shipped,
+ORD10388,CUST0173,Geeta Iyer,Jaipur,Rajasthan,Groceries,Assorted Dry Fruits Pack,1,1135,10,0,1021.5,23-01-2024,Net Banking,Delivered,5
+ORD10120,CUST0148,Aditya Reddy,Chandigarh,Chandigarh,Home & Kitchen,Wall Clock,1,3377.63,0,0,3377.63,23-01-2024,Wallet,Delivered,1
+ORD10022,CUST0167,Manoj Bose,Delhi,Delhi,Electronics,Wireless Mouse,2,4468.9,5,0,8490.91,10-09-2024,Debit Card,Returned,
+ORD10084,CUST0093,Ajay Pillai,Mumbai,Maharashtra,Beauty & Personal Care,Electric Trimmer,1,1172.09,0,0,1172.09,02-10-2025,Net Banking,Returned,
+ORD10131,CUST0102,Sai Malhotra,Patna,Bihar,Groceries,Cold Pressed Oil 1L,2,1238.76,15,0,2105.89,09-01-2025,Credit Card,Returned,
+ORD10330,CUST0158,Kavya Kulkarni,Ahmedabad,Gujarat,Sports & Fitness,Cricket Bat,2,2868.37,10,0,5163.07,30-08-2025,UPI,Shipped,
+ORD10230,CUST0097,Manoj Iyer,Delhi,Delhi,Fashion,Denim Jacket,3,2532.1,5,0,7216.48,04-07-2024,Wallet,Returned,
+ORD10448,CUST0025,Vinod Gupta,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Moisturizer,2,562.44,10,0,1012.39,23-08-2024,Debit Card,Returned,
+ORD10287,CUST0041,Arjun Chopra,Ahmedabad,Gujarat,Sports & Fitness,Badminton Racket,1,3533.35,0,0,3533.35,18-12-2025,Wallet,Delivered,4
+ORD10124,CUST0169,Geeta Kulkarni,Nagpur,Maharashtra,Sports & Fitness,Adjustable Dumbbell Set,1,2583.72,10,0,2325.35,05-10-2025,Credit Card,Cancelled,
+ORD10034,CUST0046,Priya Gupta,Jaipur,Rajasthan,Sports & Fitness,Skipping Rope,1,1481.94,25,0,1111.46,28-10-2025,UPI,Shipped,
+ORD10428,CUST0051,Ananya Pillai,Indore,Madhya Pradesh,Home & Kitchen,Steel Water Bottle,2,2537.86,0,0,5075.72,23-01-2025,Cash on Delivery,Returned,
+ORD10005,CUST0161,Diya Agarwal,Patna,Bihar,Fashion,Leather Wallet,1,1436.85,0,0,1436.85,26-03-2025,Credit Card,Cancelled,
+ORD10020,CUST0108,Vikram Agarwal,Patna,Bihar,Home & Kitchen,LED Table Lamp,1,581.37,20,72.63,537.73,26-04-2025,Credit Card,Cancelled,
+ORD10220,CUST0169,Geeta Kulkarni,Nagpur,Maharashtra,Beauty & Personal Care,Herbal Shampoo,3,425.94,0,0,1277.82,07-12-2024,Credit Card,Shipped,
+ORD10380,CUST0138,Ananya Reddy,Ahmedabad,Gujarat,Groceries,Multigrain Atta 5kg,2,779.42,15,0,1325.01,11-08-2024,Debit Card,Cancelled,
+ORD10228,CUST0076,Priya Malhotra,Jaipur,Rajasthan,Groceries,Basmati Rice 5kg,2,313.25,10,45.67,609.52,03-06-2025,Cash on Delivery,Returned,
+ORD10357,CUST0026,Anika Gupta,Jaipur,Rajasthan,Sports & Fitness,Adjustable Dumbbell Set,2,696.32,25,0,1044.48,06-01-2024,Cash on Delivery,Delivered,5
+ORD10150,CUST0038,Manoj Bose,Nagpur,Maharashtra,Fashion,Casual Sneakers,4,1602.32,0,0,6409.28,13-09-2024,Debit Card,Delivered,5
+ORD10225,CUST0166,Rajesh Kapoor,Gurugram,Haryana,Sports & Fitness,Resistance Bands,2,1752.19,0,0,3504.38,04-06-2025,UPI,Delivered,4
+ORD10248,CUST0029,Myra Verma,Coimbatore,Tamil Nadu,Groceries,Assorted Dry Fruits Pack,2,393.42,5,49.21,796.71,31-08-2024,UPI,Delivered,4
+ORD10403,CUST0103,Nitin Mukherjee,Coimbatore,Tamil Nadu,Books,Python Programming Guide,1,587.78,5,87.79,646.18,06-07-2025,Debit Card,Returned,
+ORD10152,CUST0061,Sunita Mehta,Chennai,Tamil Nadu,Beauty & Personal Care,Lipstick Set,1,251.42,0,37.96,289.38,17-01-2024,Debit Card,Delivered,4
+ORD10435,CUST0039,Vihaan Reddy,Mysuru,Karnataka,Electronics,USB-C Cable,1,679.32,5,41.15,686.5,01-06-2025,Net Banking,Delivered,5
+ORD10318,CUST0013,Sai Chopra,Bengaluru,Karnataka,Electronics,Power Bank 10000mAh,3,2523.09,25,0,5676.95,21-05-2025,Cash on Delivery,Returned,
+ORD10292,CUST0123,Aditya Sharma,Coimbatore,Tamil Nadu,Beauty & Personal Care,Electric Trimmer,1,446.25,10,34.33,435.96,23-02-2025,Cash on Delivery,Delivered,5
+ORD10234,CUST0062,Sneha Deshmukh,Jaipur,Rajasthan,Home & Kitchen,Vacuum Flask,1,1055.1,5,0,1002.34,17-07-2024,UPI,Cancelled,
+ORD10011,CUST0148,Aditya Reddy,Chandigarh,Chandigarh,Books,Children's Picture Book,1,196.63,5,31.41,218.21,07-01-2024,UPI,Delivered,2
+ORD10280,CUST0081,Priya Gupta,Hyderabad,Telangana,Sports & Fitness,Cricket Bat,2,833.73,30,0,1167.22,12-09-2024,Credit Card,Delivered,4
+ORD10072,CUST0070,Manoj Joshi,Hyderabad,Telangana,Beauty & Personal Care,Sunscreen SPF50,1,929.68,0,61.59,991.27,20-05-2025,Net Banking,Delivered,5
+ORD10253,CUST0147,Diya Menon,Hyderabad,Telangana,Books,Python Programming Guide,2,495.39,10,59.44,951.14,11-11-2025,Wallet,Delivered,4
+ORD10093,CUST0018,Geeta Deshmukh,Patna,Bihar,Home & Kitchen,Ceramic Dinner Set,1,427.89,0,30.28,458.17,14-12-2024,Cash on Delivery,Delivered,3
+ORD10350,CUST0102,Sai Malhotra,Patna,Bihar,Groceries,Assorted Dry Fruits Pack,1,809.82,20,43.75,691.61,29-05-2024,UPI,Delivered,5
+ORD10375,CUST0171,Saanvi Nair,Pune,Maharashtra,Electronics,Smartwatch,2,2635.72,10,0,4744.3,10-11-2024,Debit Card,Delivered,5
+ORD10401,CUST0018,Geeta Deshmukh,Patna,Bihar,Electronics,Webcam HD,1,3274.81,25,0,2456.11,04-02-2024,Net Banking,Shipped,
+ORD10193,CUST0118,Rohan Patel,Chennai,Tamil Nadu,Electronics,Laptop Sleeve,2,848.42,25,0,1272.63,12-08-2025,Net Banking,Shipped,
+ORD10258,CUST0169,Geeta Kulkarni,Nagpur,Maharashtra,Sports & Fitness,Yoga Mat,2,2829.65,20,0,4527.44,18-08-2025,Wallet,Returned,
+ORD10340,CUST0053,Deepak Sharma,Bengaluru,Karnataka,Books,History Encyclopedia,1,296.68,0,90.02,386.7,18-09-2025,Net Banking,Returned,
+ORD10445,CUST0009,Rajesh Menon,Hyderabad,Telangana,Electronics,Mechanical Keyboard,2,4922.29,0,0,9844.58,23-01-2025,Net Banking,Shipped,
+ORD10196,CUST0177,Reyansh Malhotra,Noida,Uttar Pradesh,Home & Kitchen,LED Table Lamp,1,1227.68,0,0,1227.68,23-03-2025,Credit Card,Delivered,5
+ORD10344,CUST0174,Kavya Menon,Gurugram,Haryana,Groceries,Multigrain Atta 5kg,2,338.45,10,34.05,643.26,28-11-2025,Wallet,Returned,
+ORD10138,CUST0010,Aarav Gupta,Surat,Gujarat,Home & Kitchen,Vacuum Flask,1,2736.66,25,0,2052.5,28-04-2024,Credit Card,Delivered,5
+ORD10261,CUST0047,Aarav Patel,Indore,Madhya Pradesh,Groceries,Organic Honey 500g,4,315.69,10,0,1136.48,05-03-2024,Wallet,Returned,
+ORD10039,CUST0125,Rajesh Pillai,Surat,Gujarat,Fashion,Formal Shirt,3,907.8,0,0,2723.4,21-09-2024,UPI,Delivered,5
+ORD10202,CUST0066,Rekha Joshi,Patna,Bihar,Fashion,Denim Jacket,1,748.39,20,69.84,668.55,08-09-2025,Debit Card,Returned,
+ORD10424,CUST0128,Aditya Deshmukh,Patna,Bihar,Books,Self-Help Bestseller,4,286.71,5,0,1089.5,25-04-2025,UPI,Delivered,4
+ORD10291,CUST0023,Ananya Deshmukh,Kolkata,West Bengal,Electronics,Power Bank 10000mAh,1,3699.07,5,0,3514.12,11-02-2025,Wallet,Cancelled,
+ORD10190,CUST0111,Ishaan Deshmukh,Nagpur,Maharashtra,Fashion,Denim Jacket,2,1456.62,5,0,2767.58,24-01-2025,Cash on Delivery,Cancelled,
+ORD10252,CUST0075,Reyansh Malhotra,Kolkata,West Bengal,Books,Self-Help Bestseller,1,366.4,15,36.46,347.9,21-09-2025,,Delivered,3
+ORD10113,CUST0157,Meera Mukherjee,Chennai,Tamil Nadu,Groceries,Green Tea Box,5,548.12,5,0,2603.57,26-09-2025,Wallet,Delivered,5
+ORD10184,CUST0156,Geeta Kulkarni,Bengaluru,Karnataka,Books,Children's Picture Book,4,763.5,25,0,2290.5,06-10-2024,Debit Card,Returned,
+ORD10153,CUST0014,Suresh Deshmukh,Chandigarh,Chandigarh,Fashion,Sunglasses,1,2011.41,0,0,2011.41,22-06-2025,Credit Card,Cancelled,
+ORD10313,CUST0099,Anika Chopra,Bengaluru,Karnataka,Groceries,Cold Pressed Oil 1L,2,363.92,0,76.63,804.47,04-03-2025,Debit Card,Returned,
+ORD10326,CUST0037,Pooja Joshi,Mysuru,Karnataka,Fashion,Handbag,1,1328.36,5,0,1261.94,05-06-2025,Net Banking,Shipped,
+ORD10192,CUST0102,Sai Malhotra,Patna,Bihar,Groceries,Multigrain Atta 5kg,3,559.67,10,0,1511.11,13-02-2024,Net Banking,Delivered,2
+ORD10045,CUST0095,Ajay Bose,Indore,Madhya Pradesh,Books,History Encyclopedia,1,508.67,0,74.16,582.83,27-06-2025,UPI,Delivered,4
+ORD10276,CUST0113,Ananya Kapoor,Bhopal,Madhya Pradesh,Electronics,Smartphone Stand,1,1396.96,0,0,1396.96,09-03-2024,Debit Card,Returned,
+ORD10007,CUST0021,Myra Reddy,Ahmedabad,Gujarat,Fashion,Denim Jacket,1,1503.19,15,0,1277.71,24-08-2024,Net Banking,Cancelled,
+ORD10251,CUST0162,Meera Chopra,Bhopal,Madhya Pradesh,Beauty & Personal Care,Sunscreen SPF50,1,503.06,10,32.6,485.35,04-09-2024,Wallet,Delivered,5
+ORD10312,CUST0116,Reyansh Nair,Hyderabad,Telangana,Fashion,Denim Jacket,1,1490.31,0,0,1490.31,09-04-2024,Credit Card,Delivered,5
+ORD10076,CUST0045,Amit Reddy,Chennai,Tamil Nadu,Books,History Encyclopedia,1,140.35,10,66.84,193.16,29-10-2025,Net Banking,Delivered,5
+ORD10001,CUST0119,Vinod Mehta,Coimbatore,Tamil Nadu,Sports & Fitness,Skipping Rope,1,3811.71,15,0,3239.95,26-07-2025,Cash on Delivery,Delivered,5
+ORD10429,CUST0063,Anita Kapoor,Bengaluru,Karnataka,Books,History Encyclopedia,1,309.49,5,35.13,329.15,01-11-2025,Wallet,Delivered,2
+ORD10392,CUST0035,Sunita Patel,Patna,Bihar,Groceries,Multigrain Atta 5kg,1,333.93,0,74.32,408.25,23-10-2025,Net Banking,Delivered,5
+ORD10384,CUST0043,Kiara Pillai,Pune,Maharashtra,Home & Kitchen,Curtain Set,1,218,5,54.65,261.75,28-03-2025,Credit Card,Cancelled,
+ORD10433,CUST0135,Ananya Gupta,Surat,Gujarat,Electronics,Bluetooth Headphones,1,4141.01,5,0,3933.96,15-11-2025,Credit Card,Returned,
+ORD10069,CUST0039,Vihaan Reddy,Mysuru,Karnataka,Home & Kitchen,Cotton Bedsheet Set,2,3060.34,20,0,4896.54,14-03-2024,Credit Card,Delivered,5
+ORD10168,CUST0096,Anita Gupta,Mumbai,Maharashtra,Groceries,Organic Honey 500g,2,697.13,0,0,1394.26,23-07-2025,Credit Card,Shipped,
+ORD10393,CUST0098,Arjun Agarwal,Nagpur,Maharashtra,Books,Children's Picture Book,1,840.63,0,94.41,935.04,19-01-2025,Credit Card,Cancelled,
+ORD10219,CUST0143,Amit Patel,Nagpur,Maharashtra,Sports & Fitness,Resistance Bands,1,3048.85,0,0,3048.85,17-10-2024,UPI,Cancelled,
+ORD10043,CUST0115,Aarav Pillai,Chennai,Tamil Nadu,Groceries,Basmati Rice 5kg,1,1101.36,5,0,1046.29,05-04-2024,UPI,Delivered,4
+ORD10367,CUST0118,Rohan Patel,Chennai,Tamil Nadu,Sports & Fitness,Cricket Bat,1,762.7,30,96.56,630.45,09-07-2024,Credit Card,Cancelled,
+ORD10346,CUST0072,Ishaan Menon,Patna,Bihar,Beauty & Personal Care,Lipstick Set,2,1151.65,5,0,2188.14,18-08-2024,UPI,Returned,
+ORD10073,CUST0154,Sunita Mehta,Kolkata,West Bengal,Electronics,Mechanical Keyboard,1,3075.92,0,0,3075.92,26-11-2024,Cash on Delivery,Delivered,3
+ORD10024,CUST0172,Aditya Joshi,Lucknow,Uttar Pradesh,Electronics,Webcam HD,2,2619.84,10,0,4715.71,11-08-2024,Net Banking,Cancelled,
+ORD10399,CUST0040,Ananya Malhotra,Chandigarh,Chandigarh,Home & Kitchen,Steel Water Bottle,1,2071.13,0,0,2071.13,25-04-2024,Credit Card,Returned,
+ORD10186,CUST0174,Kavya Menon,Gurugram,Haryana,Sports & Fitness,Skipping Rope,1,3015.26,10,0,2713.73,13-05-2025,Cash on Delivery,Cancelled,
+ORD10349,CUST0074,Kavya Mehta,Bengaluru,Karnataka,Electronics,Webcam HD,1,4404.09,20,0,3523.27,23-11-2025,Cash on Delivery,Delivered,4
+ORD10104,CUST0102,Sai Malhotra,Patna,Bihar,Sports & Fitness,Yoga Mat,3,545.89,5,0,1555.79,02-12-2024,Wallet,Returned,
+ORD10408,CUST0152,Saanvi Patel,Mumbai,Maharashtra,Sports & Fitness,Adjustable Dumbbell Set,2,3477.63,0,0,6955.26,03-10-2025,Wallet,Delivered,3
+ORD10212,CUST0147,Diya Menon,Hyderabad,Telangana,Sports & Fitness,Adjustable Dumbbell Set,1,1712.04,10,0,1540.84,25-11-2024,Cash on Delivery,Delivered,2
+ORD10068,CUST0051,,Indore,Madhya Pradesh,Books,Self-Help Bestseller,2,386.59,0,85.66,858.84,11-07-2025,Debit Card,Cancelled,
+ORD10026,CUST0030,Sneha Patel,Nagpur,Maharashtra,Groceries,Organic Honey 500g,2,476.23,10,92.53,949.74,14-11-2024,Credit Card,Shipped,
+ORD10197,CUST0112,Anika Deshmukh,Chennai,Tamil Nadu,Beauty & Personal Care,Electric Trimmer,1,918.35,15,90.37,870.97,20-06-2025,Credit Card,Delivered,4
+ORD10176,CUST0156,Geeta Kulkarni,Bengaluru,Karnataka,Sports & Fitness,Badminton Racket,1,848.37,10,94.06,857.59,30-09-2024,Credit Card,Delivered,5
